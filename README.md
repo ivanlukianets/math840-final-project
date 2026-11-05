@@ -47,7 +47,6 @@ naive's 115.7, 84.3% and 521.
 | `LUKIANETS_project_colab.ipynb` | foundation models and neural networks (Colab, GPU) on the same windows: writes `results/colab_bt.csv` and `results/colab_final.csv` |
 | `family_ETS.ipynb`, `family_ARIMA.ipynb`, `family_decomposition.ipynb`, `family_ML.ipynb` | each model family in depth, on the same windows: write `results/family_*_bt.csv` and `results/family_*_final.csv` |
 | `LUKIANETS_report.ipynb` | the report (the four questions), computed from the data and `results/` |
-| `LUKIANETS_slides.pdf` | the slides |
 | `train.csv`, `weather_forecast.csv` | the data |
 | `results/` | the saved model outputs (`*_bt.csv`: every model's forecasts on the 20 windows; `*_final.csv`: their 48-hour forecasts from the whole history) and the tables the main notebook writes for the report |
 
