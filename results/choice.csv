@@ -1,0 +1,7 @@
+,value
+choice,best foundation + best other [post]
+interval,own interval
+base,best foundation + best other
+members,"Timestral 209M + weather, ctx 32768 | LightGBM relative log, 730d"
+night rule a,0.1
+night rule level,100

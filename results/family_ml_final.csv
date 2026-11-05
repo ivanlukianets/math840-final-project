@@ -1,0 +1,961 @@
+model,family,step,mean,lo,hi
+"Ridge (hour dummies) relative log, 365d",regression,1,201.3680608558122,,
+"Ridge (hour dummies) relative log, 365d",regression,2,198.1364615240703,,
+"Ridge (hour dummies) relative log, 365d",regression,3,193.77289990426604,,
+"Ridge (hour dummies) relative log, 365d",regression,4,153.0538321844189,,
+"Ridge (hour dummies) relative log, 365d",regression,5,178.40449938862994,,
+"Ridge (hour dummies) relative log, 365d",regression,6,130.34198747207776,,
+"Ridge (hour dummies) relative log, 365d",regression,7,120.33683673520014,,
+"Ridge (hour dummies) relative log, 365d",regression,8,280.46666637288774,,
+"Ridge (hour dummies) relative log, 365d",regression,9,684.6029414016341,,
+"Ridge (hour dummies) relative log, 365d",regression,10,600.9624036493958,,
+"Ridge (hour dummies) relative log, 365d",regression,11,683.5656048877839,,
+"Ridge (hour dummies) relative log, 365d",regression,12,1460.2832959682971,,
+"Ridge (hour dummies) relative log, 365d",regression,13,836.0474109354308,,
+"Ridge (hour dummies) relative log, 365d",regression,14,617.9688141575266,,
+"Ridge (hour dummies) relative log, 365d",regression,15,1001.1258033310146,,
+"Ridge (hour dummies) relative log, 365d",regression,16,302.3946401461628,,
+"Ridge (hour dummies) relative log, 365d",regression,17,413.1435041987599,,
+"Ridge (hour dummies) relative log, 365d",regression,18,122.81121074018768,,
+"Ridge (hour dummies) relative log, 365d",regression,19,122.96344988764544,,
+"Ridge (hour dummies) relative log, 365d",regression,20,48.285033909186765,,
+"Ridge (hour dummies) relative log, 365d",regression,21,123.47872240441733,,
+"Ridge (hour dummies) relative log, 365d",regression,22,87.34506562983051,,
+"Ridge (hour dummies) relative log, 365d",regression,23,253.66595113656115,,
+"Ridge (hour dummies) relative log, 365d",regression,24,82.19821053379194,,
+"Ridge (hour dummies) relative log, 365d",regression,25,190.27068070328627,,
+"Ridge (hour dummies) relative log, 365d",regression,26,192.13024773790735,,
+"Ridge (hour dummies) relative log, 365d",regression,27,132.80260380917355,,
+"Ridge (hour dummies) relative log, 365d",regression,28,87.68640048642044,,
+"Ridge (hour dummies) relative log, 365d",regression,29,61.886602322126215,,
+"Ridge (hour dummies) relative log, 365d",regression,30,79.1332484802175,,
+"Ridge (hour dummies) relative log, 365d",regression,31,43.10462039074764,,
+"Ridge (hour dummies) relative log, 365d",regression,32,89.51952455000841,,
+"Ridge (hour dummies) relative log, 365d",regression,33,242.5246609909518,,
+"Ridge (hour dummies) relative log, 365d",regression,34,631.429632301156,,
+"Ridge (hour dummies) relative log, 365d",regression,35,268.7230581678476,,
+"Ridge (hour dummies) relative log, 365d",regression,36,1583.778350198715,,
+"Ridge (hour dummies) relative log, 365d",regression,37,624.1961381953184,,
+"Ridge (hour dummies) relative log, 365d",regression,38,1418.7033700637894,,
+"Ridge (hour dummies) relative log, 365d",regression,39,764.4962715558274,,
+"Ridge (hour dummies) relative log, 365d",regression,40,567.2890170298413,,
+"Ridge (hour dummies) relative log, 365d",regression,41,124.76639065636608,,
+"Ridge (hour dummies) relative log, 365d",regression,42,40.992680831875,,
+"Ridge (hour dummies) relative log, 365d",regression,43,95.15354842677138,,
+"Ridge (hour dummies) relative log, 365d",regression,44,76.0154434925871,,
+"Ridge (hour dummies) relative log, 365d",regression,45,26.739663347997137,,
+"Ridge (hour dummies) relative log, 365d",regression,46,63.75973047931057,,
+"Ridge (hour dummies) relative log, 365d",regression,47,97.49670025797842,,
+"Ridge (hour dummies) relative log, 365d",regression,48,103.62156005976608,,
+"Ridge (hour dummies) relative log, 90d",regression,1,167.25504378613908,,
+"Ridge (hour dummies) relative log, 90d",regression,2,135.63743327688468,,
+"Ridge (hour dummies) relative log, 90d",regression,3,76.59850122932465,,
+"Ridge (hour dummies) relative log, 90d",regression,4,53.548427859635574,,
+"Ridge (hour dummies) relative log, 90d",regression,5,142.49006209925497,,
+"Ridge (hour dummies) relative log, 90d",regression,6,93.328356692185,,
+"Ridge (hour dummies) relative log, 90d",regression,7,136.8982404232867,,
+"Ridge (hour dummies) relative log, 90d",regression,8,232.83484052477823,,
+"Ridge (hour dummies) relative log, 90d",regression,9,518.20563955988,,
+"Ridge (hour dummies) relative log, 90d",regression,10,934.9573532027908,,
+"Ridge (hour dummies) relative log, 90d",regression,11,1053.9032376371233,,
+"Ridge (hour dummies) relative log, 90d",regression,12,1324.2636891217558,,
+"Ridge (hour dummies) relative log, 90d",regression,13,1748.4096961885848,,
+"Ridge (hour dummies) relative log, 90d",regression,14,1552.8273019774908,,
+"Ridge (hour dummies) relative log, 90d",regression,15,1544.3524864763417,,
+"Ridge (hour dummies) relative log, 90d",regression,16,1015.4494342140792,,
+"Ridge (hour dummies) relative log, 90d",regression,17,387.20272731385427,,
+"Ridge (hour dummies) relative log, 90d",regression,18,108.9223197748444,,
+"Ridge (hour dummies) relative log, 90d",regression,19,52.748474073036206,,
+"Ridge (hour dummies) relative log, 90d",regression,20,36.79388557443164,,
+"Ridge (hour dummies) relative log, 90d",regression,21,40.16950669506436,,
+"Ridge (hour dummies) relative log, 90d",regression,22,68.66394045961427,,
+"Ridge (hour dummies) relative log, 90d",regression,23,97.9166733631218,,
+"Ridge (hour dummies) relative log, 90d",regression,24,137.31348643616772,,
+"Ridge (hour dummies) relative log, 90d",regression,25,222.81587698181391,,
+"Ridge (hour dummies) relative log, 90d",regression,26,92.02281251419568,,
+"Ridge (hour dummies) relative log, 90d",regression,27,38.05280617598593,,
+"Ridge (hour dummies) relative log, 90d",regression,28,28.92944115243216,,
+"Ridge (hour dummies) relative log, 90d",regression,29,45.5805469103868,,
+"Ridge (hour dummies) relative log, 90d",regression,30,56.374190585178226,,
+"Ridge (hour dummies) relative log, 90d",regression,31,91.59159221425524,,
+"Ridge (hour dummies) relative log, 90d",regression,32,182.83590552613651,,
+"Ridge (hour dummies) relative log, 90d",regression,33,481.1639738032724,,
+"Ridge (hour dummies) relative log, 90d",regression,34,623.4359550739465,,
+"Ridge (hour dummies) relative log, 90d",regression,35,1123.5383726493983,,
+"Ridge (hour dummies) relative log, 90d",regression,36,994.1767029570634,,
+"Ridge (hour dummies) relative log, 90d",regression,37,1936.7796143180733,,
+"Ridge (hour dummies) relative log, 90d",regression,38,1644.823109867783,,
+"Ridge (hour dummies) relative log, 90d",regression,39,1478.3202259676689,,
+"Ridge (hour dummies) relative log, 90d",regression,40,469.7501501889655,,
+"Ridge (hour dummies) relative log, 90d",regression,41,200.28964155659608,,
+"Ridge (hour dummies) relative log, 90d",regression,42,87.22010286385338,,
+"Ridge (hour dummies) relative log, 90d",regression,43,64.25371483177679,,
+"Ridge (hour dummies) relative log, 90d",regression,44,37.713478114768144,,
+"Ridge (hour dummies) relative log, 90d",regression,45,41.07020813439864,,
+"Ridge (hour dummies) relative log, 90d",regression,46,79.60480501334207,,
+"Ridge (hour dummies) relative log, 90d",regression,47,76.00855083956445,,
+"Ridge (hour dummies) relative log, 90d",regression,48,19.40523289133611,,
+"Random forest relative log, 365d",trees,1,140.6249700384311,,
+"Random forest relative log, 365d",trees,2,101.05168474357605,,
+"Random forest relative log, 365d",trees,3,99.82637233820344,,
+"Random forest relative log, 365d",trees,4,106.46375051039284,,
+"Random forest relative log, 365d",trees,5,110.62153146922756,,
+"Random forest relative log, 365d",trees,6,99.67201738425982,,
+"Random forest relative log, 365d",trees,7,105.7986133727528,,
+"Random forest relative log, 365d",trees,8,151.79517230914357,,
+"Random forest relative log, 365d",trees,9,311.32246057322544,,
+"Random forest relative log, 365d",trees,10,524.4868629868116,,
+"Random forest relative log, 365d",trees,11,668.4440449642983,,
+"Random forest relative log, 365d",trees,12,722.4697928820775,,
+"Random forest relative log, 365d",trees,13,716.4927548737023,,
+"Random forest relative log, 365d",trees,14,717.7479209306265,,
+"Random forest relative log, 365d",trees,15,620.6071013641431,,
+"Random forest relative log, 365d",trees,16,359.8149254890148,,
+"Random forest relative log, 365d",trees,17,180.50347430820895,,
+"Random forest relative log, 365d",trees,18,72.74684496670054,,
+"Random forest relative log, 365d",trees,19,50.03333042279746,,
+"Random forest relative log, 365d",trees,20,42.598724024847385,,
+"Random forest relative log, 365d",trees,21,61.47022228060752,,
+"Random forest relative log, 365d",trees,22,66.96396693194723,,
+"Random forest relative log, 365d",trees,23,144.90165330258932,,
+"Random forest relative log, 365d",trees,24,95.67329756383624,,
+"Random forest relative log, 365d",trees,25,179.26903447259346,,
+"Random forest relative log, 365d",trees,26,101.62521287492493,,
+"Random forest relative log, 365d",trees,27,58.06449110182088,,
+"Random forest relative log, 365d",trees,28,56.4673292466148,,
+"Random forest relative log, 365d",trees,29,63.24029832701377,,
+"Random forest relative log, 365d",trees,30,83.20516115676533,,
+"Random forest relative log, 365d",trees,31,78.35371603491573,,
+"Random forest relative log, 365d",trees,32,126.10791715547172,,
+"Random forest relative log, 365d",trees,33,352.4970694858941,,
+"Random forest relative log, 365d",trees,34,516.2475700301161,,
+"Random forest relative log, 365d",trees,35,655.7257718822818,,
+"Random forest relative log, 365d",trees,36,664.3173255382355,,
+"Random forest relative log, 365d",trees,37,803.7729029264358,,
+"Random forest relative log, 365d",trees,38,842.5508479433566,,
+"Random forest relative log, 365d",trees,39,546.166764954581,,
+"Random forest relative log, 365d",trees,40,225.88952714117443,,
+"Random forest relative log, 365d",trees,41,103.8819897902624,,
+"Random forest relative log, 365d",trees,42,92.84349285938124,,
+"Random forest relative log, 365d",trees,43,90.31868403972824,,
+"Random forest relative log, 365d",trees,44,54.1553798815996,,
+"Random forest relative log, 365d",trees,45,58.03709139286059,,
+"Random forest relative log, 365d",trees,46,66.15063931189736,,
+"Random forest relative log, 365d",trees,47,85.70044408962467,,
+"Random forest relative log, 365d",trees,48,93.9460423802538,,
+"Extra trees relative log, 365d",trees,1,111.13835921228402,,
+"Extra trees relative log, 365d",trees,2,97.589561989812,,
+"Extra trees relative log, 365d",trees,3,103.08062084031371,,
+"Extra trees relative log, 365d",trees,4,100.92826559602982,,
+"Extra trees relative log, 365d",trees,5,111.0650395985805,,
+"Extra trees relative log, 365d",trees,6,103.93572404138136,,
+"Extra trees relative log, 365d",trees,7,114.2500640576658,,
+"Extra trees relative log, 365d",trees,8,161.87982643000367,,
+"Extra trees relative log, 365d",trees,9,327.141576278355,,
+"Extra trees relative log, 365d",trees,10,534.3252669560248,,
+"Extra trees relative log, 365d",trees,11,650.7250244247016,,
+"Extra trees relative log, 365d",trees,12,736.7952180976096,,
+"Extra trees relative log, 365d",trees,13,744.16781433692,,
+"Extra trees relative log, 365d",trees,14,718.4147094295505,,
+"Extra trees relative log, 365d",trees,15,589.8466664638037,,
+"Extra trees relative log, 365d",trees,16,167.3931644496706,,
+"Extra trees relative log, 365d",trees,17,142.30707292563525,,
+"Extra trees relative log, 365d",trees,18,93.44457727109013,,
+"Extra trees relative log, 365d",trees,19,70.81744653158782,,
+"Extra trees relative log, 365d",trees,20,57.85371578742486,,
+"Extra trees relative log, 365d",trees,21,73.61631392946303,,
+"Extra trees relative log, 365d",trees,22,74.0102904756919,,
+"Extra trees relative log, 365d",trees,23,111.99594794239788,,
+"Extra trees relative log, 365d",trees,24,99.71415929595388,,
+"Extra trees relative log, 365d",trees,25,125.60351489789367,,
+"Extra trees relative log, 365d",trees,26,110.31762012462634,,
+"Extra trees relative log, 365d",trees,27,58.408701311503314,,
+"Extra trees relative log, 365d",trees,28,58.76900838952604,,
+"Extra trees relative log, 365d",trees,29,42.23197092932769,,
+"Extra trees relative log, 365d",trees,30,94.76336711837588,,
+"Extra trees relative log, 365d",trees,31,61.521021279807584,,
+"Extra trees relative log, 365d",trees,32,133.24485412690703,,
+"Extra trees relative log, 365d",trees,33,322.64090989933527,,
+"Extra trees relative log, 365d",trees,34,445.0076928745576,,
+"Extra trees relative log, 365d",trees,35,577.2937659060966,,
+"Extra trees relative log, 365d",trees,36,555.0366152636076,,
+"Extra trees relative log, 365d",trees,37,705.0878608433947,,
+"Extra trees relative log, 365d",trees,38,667.916633665333,,
+"Extra trees relative log, 365d",trees,39,484.2980960087721,,
+"Extra trees relative log, 365d",trees,40,159.5228878305769,,
+"Extra trees relative log, 365d",trees,41,76.40031549737115,,
+"Extra trees relative log, 365d",trees,42,65.2355171364109,,
+"Extra trees relative log, 365d",trees,43,63.54920983591094,,
+"Extra trees relative log, 365d",trees,44,43.29169311044237,,
+"Extra trees relative log, 365d",trees,45,33.64710397157253,,
+"Extra trees relative log, 365d",trees,46,54.179276348681526,,
+"Extra trees relative log, 365d",trees,47,81.76007551239657,,
+"Extra trees relative log, 365d",trees,48,63.96035801549587,,
+"HistGB relative log, 365d",trees,1,153.1277262851003,,
+"HistGB relative log, 365d",trees,2,114.07743153945502,,
+"HistGB relative log, 365d",trees,3,144.75554511720526,,
+"HistGB relative log, 365d",trees,4,102.69919149764245,,
+"HistGB relative log, 365d",trees,5,121.97851318068072,,
+"HistGB relative log, 365d",trees,6,102.01371305743449,,
+"HistGB relative log, 365d",trees,7,107.1764468750267,,
+"HistGB relative log, 365d",trees,8,142.02389648113223,,
+"HistGB relative log, 365d",trees,9,314.14111185666235,,
+"HistGB relative log, 365d",trees,10,587.1044049733372,,
+"HistGB relative log, 365d",trees,11,675.3248458188845,,
+"HistGB relative log, 365d",trees,12,709.19186143677,,
+"HistGB relative log, 365d",trees,13,705.7674125007574,,
+"HistGB relative log, 365d",trees,14,813.4052126220413,,
+"HistGB relative log, 365d",trees,15,753.9918092611291,,
+"HistGB relative log, 365d",trees,16,340.7337682577432,,
+"HistGB relative log, 365d",trees,17,189.08553191399747,,
+"HistGB relative log, 365d",trees,18,74.29872916391388,,
+"HistGB relative log, 365d",trees,19,49.61337353505874,,
+"HistGB relative log, 365d",trees,20,51.719052139776736,,
+"HistGB relative log, 365d",trees,21,69.06143344384948,,
+"HistGB relative log, 365d",trees,22,107.39816630702047,,
+"HistGB relative log, 365d",trees,23,135.28541746241623,,
+"HistGB relative log, 365d",trees,24,108.23149307042546,,
+"HistGB relative log, 365d",trees,25,182.9499959478513,,
+"HistGB relative log, 365d",trees,26,103.96359489295764,,
+"HistGB relative log, 365d",trees,27,35.696767363215244,,
+"HistGB relative log, 365d",trees,28,12.16615821876398,,
+"HistGB relative log, 365d",trees,29,18.776537823519,,
+"HistGB relative log, 365d",trees,30,74.23212273966479,,
+"HistGB relative log, 365d",trees,31,73.28387104943408,,
+"HistGB relative log, 365d",trees,32,160.54919676652293,,
+"HistGB relative log, 365d",trees,33,492.9208612419551,,
+"HistGB relative log, 365d",trees,34,591.866001479028,,
+"HistGB relative log, 365d",trees,35,794.778092912071,,
+"HistGB relative log, 365d",trees,36,683.6026321613904,,
+"HistGB relative log, 365d",trees,37,849.6028694906706,,
+"HistGB relative log, 365d",trees,38,811.756896613191,,
+"HistGB relative log, 365d",trees,39,679.5072503491954,,
+"HistGB relative log, 365d",trees,40,241.55829543337708,,
+"HistGB relative log, 365d",trees,41,174.46568705758224,,
+"HistGB relative log, 365d",trees,42,68.89576266172008,,
+"HistGB relative log, 365d",trees,43,98.55058180009176,,
+"HistGB relative log, 365d",trees,44,49.583942862125774,,
+"HistGB relative log, 365d",trees,45,53.82840058268173,,
+"HistGB relative log, 365d",trees,46,87.5641046637737,,
+"HistGB relative log, 365d",trees,47,111.4922356145191,,
+"HistGB relative log, 365d",trees,48,81.84125080418659,,
+"HistGB relative log, 730d",trees,1,115.53591933656546,,
+"HistGB relative log, 730d",trees,2,114.66004200745644,,
+"HistGB relative log, 730d",trees,3,118.85035293536043,,
+"HistGB relative log, 730d",trees,4,73.99447838136462,,
+"HistGB relative log, 730d",trees,5,96.19890424819606,,
+"HistGB relative log, 730d",trees,6,98.77537464431596,,
+"HistGB relative log, 730d",trees,7,98.83703134012865,,
+"HistGB relative log, 730d",trees,8,148.56101635880415,,
+"HistGB relative log, 730d",trees,9,286.73084860473216,,
+"HistGB relative log, 730d",trees,10,615.136560895883,,
+"HistGB relative log, 730d",trees,11,619.7997658918515,,
+"HistGB relative log, 730d",trees,12,704.8167994246207,,
+"HistGB relative log, 730d",trees,13,700.4101160070455,,
+"HistGB relative log, 730d",trees,14,702.324744675061,,
+"HistGB relative log, 730d",trees,15,581.8616808231036,,
+"HistGB relative log, 730d",trees,16,317.05671197199933,,
+"HistGB relative log, 730d",trees,17,163.02588403109078,,
+"HistGB relative log, 730d",trees,18,94.81918030964908,,
+"HistGB relative log, 730d",trees,19,81.2319417048759,,
+"HistGB relative log, 730d",trees,20,79.42941444256,,
+"HistGB relative log, 730d",trees,21,92.4538666797768,,
+"HistGB relative log, 730d",trees,22,97.56828793925416,,
+"HistGB relative log, 730d",trees,23,147.97016982249397,,
+"HistGB relative log, 730d",trees,24,115.75633146287682,,
+"HistGB relative log, 730d",trees,25,213.01032001670663,,
+"HistGB relative log, 730d",trees,26,158.6468773990094,,
+"HistGB relative log, 730d",trees,27,77.28011491519182,,
+"HistGB relative log, 730d",trees,28,44.74976315295793,,
+"HistGB relative log, 730d",trees,29,45.98355344410086,,
+"HistGB relative log, 730d",trees,30,59.715638897629894,,
+"HistGB relative log, 730d",trees,31,58.06611891387153,,
+"HistGB relative log, 730d",trees,32,113.72661947410477,,
+"HistGB relative log, 730d",trees,33,321.1837534988195,,
+"HistGB relative log, 730d",trees,34,501.2230224243572,,
+"HistGB relative log, 730d",trees,35,615.7036072761207,,
+"HistGB relative log, 730d",trees,36,611.0246503511437,,
+"HistGB relative log, 730d",trees,37,754.0435329812767,,
+"HistGB relative log, 730d",trees,38,718.4991358880351,,
+"HistGB relative log, 730d",trees,39,543.5920795438916,,
+"HistGB relative log, 730d",trees,40,177.5613283248568,,
+"HistGB relative log, 730d",trees,41,94.43977481281188,,
+"HistGB relative log, 730d",trees,42,79.21133454759028,,
+"HistGB relative log, 730d",trees,43,103.08373883128247,,
+"HistGB relative log, 730d",trees,44,56.26041817124635,,
+"HistGB relative log, 730d",trees,45,58.983210285693346,,
+"HistGB relative log, 730d",trees,46,41.862129224530186,,
+"HistGB relative log, 730d",trees,47,77.3066146196174,,
+"HistGB relative log, 730d",trees,48,70.30246902967569,,
+"LightGBM relative log, 730d",LightGBM,1,126.4350516235298,,
+"LightGBM relative log, 730d",LightGBM,2,106.5311407045208,,
+"LightGBM relative log, 730d",LightGBM,3,99.08718757592209,,
+"LightGBM relative log, 730d",LightGBM,4,78.09673156213772,,
+"LightGBM relative log, 730d",LightGBM,5,97.5969532854047,,
+"LightGBM relative log, 730d",LightGBM,6,95.23772644877764,,
+"LightGBM relative log, 730d",LightGBM,7,120.08580985806071,,
+"LightGBM relative log, 730d",LightGBM,8,162.21161686440442,,
+"LightGBM relative log, 730d",LightGBM,9,293.0582336768388,,
+"LightGBM relative log, 730d",LightGBM,10,611.4955040131994,,
+"LightGBM relative log, 730d",LightGBM,11,692.7207371922249,,
+"LightGBM relative log, 730d",LightGBM,12,746.8869627694021,,
+"LightGBM relative log, 730d",LightGBM,13,741.4130528453938,,
+"LightGBM relative log, 730d",LightGBM,14,729.3627788912171,,
+"LightGBM relative log, 730d",LightGBM,15,603.7583180919293,,
+"LightGBM relative log, 730d",LightGBM,16,296.9474621853337,,
+"LightGBM relative log, 730d",LightGBM,17,155.02874939293596,,
+"LightGBM relative log, 730d",LightGBM,18,97.36121712692848,,
+"LightGBM relative log, 730d",LightGBM,19,55.855371876486466,,
+"LightGBM relative log, 730d",LightGBM,20,51.255169508352054,,
+"LightGBM relative log, 730d",LightGBM,21,66.20343033443513,,
+"LightGBM relative log, 730d",LightGBM,22,71.57591708156436,,
+"LightGBM relative log, 730d",LightGBM,23,106.4924446455821,,
+"LightGBM relative log, 730d",LightGBM,24,122.63937913188138,,
+"LightGBM relative log, 730d",LightGBM,25,161.25258461365473,,
+"LightGBM relative log, 730d",LightGBM,26,177.20530238026757,,
+"LightGBM relative log, 730d",LightGBM,27,58.63039535057126,,
+"LightGBM relative log, 730d",LightGBM,28,46.12189614638368,,
+"LightGBM relative log, 730d",LightGBM,29,51.56863918234787,,
+"LightGBM relative log, 730d",LightGBM,30,56.498469110599835,,
+"LightGBM relative log, 730d",LightGBM,31,70.9407001044023,,
+"LightGBM relative log, 730d",LightGBM,32,148.43437518772024,,
+"LightGBM relative log, 730d",LightGBM,33,365.428154940881,,
+"LightGBM relative log, 730d",LightGBM,34,578.0564504758339,,
+"LightGBM relative log, 730d",LightGBM,35,693.5289657686915,,
+"LightGBM relative log, 730d",LightGBM,36,665.1495806723489,,
+"LightGBM relative log, 730d",LightGBM,37,856.4995154225662,,
+"LightGBM relative log, 730d",LightGBM,38,775.4768257579939,,
+"LightGBM relative log, 730d",LightGBM,39,552.8726461509201,,
+"LightGBM relative log, 730d",LightGBM,40,209.87151738264976,,
+"LightGBM relative log, 730d",LightGBM,41,82.25023294570279,,
+"LightGBM relative log, 730d",LightGBM,42,92.04684216536212,,
+"LightGBM relative log, 730d",LightGBM,43,115.7053536104276,,
+"LightGBM relative log, 730d",LightGBM,44,66.10559333251574,,
+"LightGBM relative log, 730d",LightGBM,45,77.7145578476041,,
+"LightGBM relative log, 730d",LightGBM,46,58.94103153692989,,
+"LightGBM relative log, 730d",LightGBM,47,87.0796147015762,,
+"LightGBM relative log, 730d",LightGBM,48,63.68431001665723,,
+"LightGBM relative log, 365d",LightGBM,1,141.4650113019705,,
+"LightGBM relative log, 365d",LightGBM,2,96.60211528346235,,
+"LightGBM relative log, 365d",LightGBM,3,102.51175840145912,,
+"LightGBM relative log, 365d",LightGBM,4,108.74215539943316,,
+"LightGBM relative log, 365d",LightGBM,5,102.80097433864242,,
+"LightGBM relative log, 365d",LightGBM,6,95.33603334886628,,
+"LightGBM relative log, 365d",LightGBM,7,118.2903414864495,,
+"LightGBM relative log, 365d",LightGBM,8,157.8784555280164,,
+"LightGBM relative log, 365d",LightGBM,9,355.54802786845323,,
+"LightGBM relative log, 365d",LightGBM,10,609.0621148093339,,
+"LightGBM relative log, 365d",LightGBM,11,731.9502707614607,,
+"LightGBM relative log, 365d",LightGBM,12,764.6865968427759,,
+"LightGBM relative log, 365d",LightGBM,13,755.9302381667706,,
+"LightGBM relative log, 365d",LightGBM,14,705.4028731091219,,
+"LightGBM relative log, 365d",LightGBM,15,656.3251471971706,,
+"LightGBM relative log, 365d",LightGBM,16,353.34608092226824,,
+"LightGBM relative log, 365d",LightGBM,17,186.8291746188998,,
+"LightGBM relative log, 365d",LightGBM,18,87.41004158165222,,
+"LightGBM relative log, 365d",LightGBM,19,41.586523268349694,,
+"LightGBM relative log, 365d",LightGBM,20,35.92957659701478,,
+"LightGBM relative log, 365d",LightGBM,21,70.3677424199071,,
+"LightGBM relative log, 365d",LightGBM,22,88.49344417629233,,
+"LightGBM relative log, 365d",LightGBM,23,146.18336284064785,,
+"LightGBM relative log, 365d",LightGBM,24,107.85871209149202,,
+"LightGBM relative log, 365d",LightGBM,25,189.31745320424977,,
+"LightGBM relative log, 365d",LightGBM,26,143.4125710760919,,
+"LightGBM relative log, 365d",LightGBM,27,68.66604637414498,,
+"LightGBM relative log, 365d",LightGBM,28,33.95813307310161,,
+"LightGBM relative log, 365d",LightGBM,29,27.427696964440425,,
+"LightGBM relative log, 365d",LightGBM,30,55.62652942484012,,
+"LightGBM relative log, 365d",LightGBM,31,96.82701318086178,,
+"LightGBM relative log, 365d",LightGBM,32,172.42903118368469,,
+"LightGBM relative log, 365d",LightGBM,33,488.5982052658035,,
+"LightGBM relative log, 365d",LightGBM,34,628.7599506334003,,
+"LightGBM relative log, 365d",LightGBM,35,778.7398629785708,,
+"LightGBM relative log, 365d",LightGBM,36,712.2335987338922,,
+"LightGBM relative log, 365d",LightGBM,37,843.3063672733787,,
+"LightGBM relative log, 365d",LightGBM,38,762.8966169446406,,
+"LightGBM relative log, 365d",LightGBM,39,607.596121573305,,
+"LightGBM relative log, 365d",LightGBM,40,249.1692097925744,,
+"LightGBM relative log, 365d",LightGBM,41,194.19615535086675,,
+"LightGBM relative log, 365d",LightGBM,42,64.34070504648979,,
+"LightGBM relative log, 365d",LightGBM,43,133.07949873685897,,
+"LightGBM relative log, 365d",LightGBM,44,64.49886994367876,,
+"LightGBM relative log, 365d",LightGBM,45,78.58551346968014,,
+"LightGBM relative log, 365d",LightGBM,46,83.6813182123986,,
+"LightGBM relative log, 365d",LightGBM,47,141.3677838450255,,
+"LightGBM relative log, 365d",LightGBM,48,119.40300190736735,,
+"LightGBM small trees relative log, 730d",LightGBM,1,146.58988518177816,,
+"LightGBM small trees relative log, 730d",LightGBM,2,108.0453888891145,,
+"LightGBM small trees relative log, 730d",LightGBM,3,99.5858372345824,,
+"LightGBM small trees relative log, 730d",LightGBM,4,57.84681913026632,,
+"LightGBM small trees relative log, 730d",LightGBM,5,114.85424499353104,,
+"LightGBM small trees relative log, 730d",LightGBM,6,111.86633747474374,,
+"LightGBM small trees relative log, 730d",LightGBM,7,89.33448715336894,,
+"LightGBM small trees relative log, 730d",LightGBM,8,161.0693238909088,,
+"LightGBM small trees relative log, 730d",LightGBM,9,313.52968562122163,,
+"LightGBM small trees relative log, 730d",LightGBM,10,550.2984410803357,,
+"LightGBM small trees relative log, 730d",LightGBM,11,564.4777323617576,,
+"LightGBM small trees relative log, 730d",LightGBM,12,656.5387546997688,,
+"LightGBM small trees relative log, 730d",LightGBM,13,630.6156238578975,,
+"LightGBM small trees relative log, 730d",LightGBM,14,651.7124164505819,,
+"LightGBM small trees relative log, 730d",LightGBM,15,553.8617452075559,,
+"LightGBM small trees relative log, 730d",LightGBM,16,300.1711029482784,,
+"LightGBM small trees relative log, 730d",LightGBM,17,151.41316046960208,,
+"LightGBM small trees relative log, 730d",LightGBM,18,95.658027648653,,
+"LightGBM small trees relative log, 730d",LightGBM,19,49.43961437353056,,
+"LightGBM small trees relative log, 730d",LightGBM,20,72.31336926245416,,
+"LightGBM small trees relative log, 730d",LightGBM,21,68.41156066014348,,
+"LightGBM small trees relative log, 730d",LightGBM,22,73.76903947696309,,
+"LightGBM small trees relative log, 730d",LightGBM,23,135.2586575870097,,
+"LightGBM small trees relative log, 730d",LightGBM,24,101.02577529968144,,
+"LightGBM small trees relative log, 730d",LightGBM,25,217.1855769558971,,
+"LightGBM small trees relative log, 730d",LightGBM,26,167.06085171118318,,
+"LightGBM small trees relative log, 730d",LightGBM,27,61.08931167474792,,
+"LightGBM small trees relative log, 730d",LightGBM,28,35.820002430628314,,
+"LightGBM small trees relative log, 730d",LightGBM,29,46.5354502093629,,
+"LightGBM small trees relative log, 730d",LightGBM,30,55.35726476343513,,
+"LightGBM small trees relative log, 730d",LightGBM,31,77.52563052200317,,
+"LightGBM small trees relative log, 730d",LightGBM,32,140.60174269096862,,
+"LightGBM small trees relative log, 730d",LightGBM,33,346.3004039362261,,
+"LightGBM small trees relative log, 730d",LightGBM,34,509.84707808683254,,
+"LightGBM small trees relative log, 730d",LightGBM,35,610.6272159058153,,
+"LightGBM small trees relative log, 730d",LightGBM,36,609.4453062797409,,
+"LightGBM small trees relative log, 730d",LightGBM,37,773.9220188317174,,
+"LightGBM small trees relative log, 730d",LightGBM,38,738.7438475390547,,
+"LightGBM small trees relative log, 730d",LightGBM,39,578.4416549140096,,
+"LightGBM small trees relative log, 730d",LightGBM,40,192.86897921917625,,
+"LightGBM small trees relative log, 730d",LightGBM,41,87.73943358910898,,
+"LightGBM small trees relative log, 730d",LightGBM,42,79.28942067091722,,
+"LightGBM small trees relative log, 730d",LightGBM,43,108.22816093803816,,
+"LightGBM small trees relative log, 730d",LightGBM,44,65.93644756704798,,
+"LightGBM small trees relative log, 730d",LightGBM,45,64.09679785060568,,
+"LightGBM small trees relative log, 730d",LightGBM,46,54.95516550442173,,
+"LightGBM small trees relative log, 730d",LightGBM,47,90.71811529207476,,
+"LightGBM small trees relative log, 730d",LightGBM,48,59.76515337487876,,
+"LightGBM big trees relative log, 730d",LightGBM,1,116.95063871464284,,
+"LightGBM big trees relative log, 730d",LightGBM,2,112.519965518523,,
+"LightGBM big trees relative log, 730d",LightGBM,3,88.5431630037998,,
+"LightGBM big trees relative log, 730d",LightGBM,4,57.40508683796326,,
+"LightGBM big trees relative log, 730d",LightGBM,5,101.70635573731282,,
+"LightGBM big trees relative log, 730d",LightGBM,6,91.49120153173638,,
+"LightGBM big trees relative log, 730d",LightGBM,7,95.82523210361612,,
+"LightGBM big trees relative log, 730d",LightGBM,8,171.0140611613835,,
+"LightGBM big trees relative log, 730d",LightGBM,9,318.84853393287796,,
+"LightGBM big trees relative log, 730d",LightGBM,10,631.7529482615957,,
+"LightGBM big trees relative log, 730d",LightGBM,11,710.9539470420627,,
+"LightGBM big trees relative log, 730d",LightGBM,12,818.6968566830988,,
+"LightGBM big trees relative log, 730d",LightGBM,13,777.5592248734737,,
+"LightGBM big trees relative log, 730d",LightGBM,14,753.5203751846805,,
+"LightGBM big trees relative log, 730d",LightGBM,15,683.6779853899237,,
+"LightGBM big trees relative log, 730d",LightGBM,16,387.00140093182256,,
+"LightGBM big trees relative log, 730d",LightGBM,17,224.43719035133492,,
+"LightGBM big trees relative log, 730d",LightGBM,18,112.21219221334368,,
+"LightGBM big trees relative log, 730d",LightGBM,19,65.85480656302398,,
+"LightGBM big trees relative log, 730d",LightGBM,20,48.04415736930157,,
+"LightGBM big trees relative log, 730d",LightGBM,21,64.37178847523911,,
+"LightGBM big trees relative log, 730d",LightGBM,22,68.5466128236642,,
+"LightGBM big trees relative log, 730d",LightGBM,23,109.20287587676036,,
+"LightGBM big trees relative log, 730d",LightGBM,24,137.5919723350418,,
+"LightGBM big trees relative log, 730d",LightGBM,25,179.75529142469827,,
+"LightGBM big trees relative log, 730d",LightGBM,26,195.21273288679023,,
+"LightGBM big trees relative log, 730d",LightGBM,27,43.61429273085452,,
+"LightGBM big trees relative log, 730d",LightGBM,28,28.378816411304037,,
+"LightGBM big trees relative log, 730d",LightGBM,29,34.393953756739414,,
+"LightGBM big trees relative log, 730d",LightGBM,30,56.108962991124294,,
+"LightGBM big trees relative log, 730d",LightGBM,31,77.10295756965164,,
+"LightGBM big trees relative log, 730d",LightGBM,32,126.25401387639796,,
+"LightGBM big trees relative log, 730d",LightGBM,33,341.39500434244087,,
+"LightGBM big trees relative log, 730d",LightGBM,34,520.6037392067805,,
+"LightGBM big trees relative log, 730d",LightGBM,35,673.073840261071,,
+"LightGBM big trees relative log, 730d",LightGBM,36,651.0745362862257,,
+"LightGBM big trees relative log, 730d",LightGBM,37,844.564040402153,,
+"LightGBM big trees relative log, 730d",LightGBM,38,752.8823530537076,,
+"LightGBM big trees relative log, 730d",LightGBM,39,561.5290372275755,,
+"LightGBM big trees relative log, 730d",LightGBM,40,212.9542164502609,,
+"LightGBM big trees relative log, 730d",LightGBM,41,99.87781479316332,,
+"LightGBM big trees relative log, 730d",LightGBM,42,85.6110363301151,,
+"LightGBM big trees relative log, 730d",LightGBM,43,139.5382023447768,,
+"LightGBM big trees relative log, 730d",LightGBM,44,53.52624053327919,,
+"LightGBM big trees relative log, 730d",LightGBM,45,64.73300676077643,,
+"LightGBM big trees relative log, 730d",LightGBM,46,57.74942219867644,,
+"LightGBM big trees relative log, 730d",LightGBM,47,83.50748384819084,,
+"LightGBM big trees relative log, 730d",LightGBM,48,73.71509070704361,,
+"LightGBM relative bc, 730d",LightGBM,1,187.94328022987793,,
+"LightGBM relative bc, 730d",LightGBM,2,182.22804358553975,,
+"LightGBM relative bc, 730d",LightGBM,3,162.70962336807503,,
+"LightGBM relative bc, 730d",LightGBM,4,123.04619407527372,,
+"LightGBM relative bc, 730d",LightGBM,5,177.90866850487055,,
+"LightGBM relative bc, 730d",LightGBM,6,160.366462122158,,
+"LightGBM relative bc, 730d",LightGBM,7,160.26084038634235,,
+"LightGBM relative bc, 730d",LightGBM,8,191.75925497883105,,
+"LightGBM relative bc, 730d",LightGBM,9,353.24351666805705,,
+"LightGBM relative bc, 730d",LightGBM,10,576.4346374605464,,
+"LightGBM relative bc, 730d",LightGBM,11,685.0777058866545,,
+"LightGBM relative bc, 730d",LightGBM,12,916.3454960299042,,
+"LightGBM relative bc, 730d",LightGBM,13,1009.1206595252552,,
+"LightGBM relative bc, 730d",LightGBM,14,1032.4817374319955,,
+"LightGBM relative bc, 730d",LightGBM,15,808.6234981413792,,
+"LightGBM relative bc, 730d",LightGBM,16,508.9088165263661,,
+"LightGBM relative bc, 730d",LightGBM,17,194.21074520681384,,
+"LightGBM relative bc, 730d",LightGBM,18,104.05530404032264,,
+"LightGBM relative bc, 730d",LightGBM,19,84.19146130533512,,
+"LightGBM relative bc, 730d",LightGBM,20,82.31123371361937,,
+"LightGBM relative bc, 730d",LightGBM,21,101.971236155754,,
+"LightGBM relative bc, 730d",LightGBM,22,120.48429649660916,,
+"LightGBM relative bc, 730d",LightGBM,23,174.4800900485145,,
+"LightGBM relative bc, 730d",LightGBM,24,138.6741387763282,,
+"LightGBM relative bc, 730d",LightGBM,25,213.8276612877022,,
+"LightGBM relative bc, 730d",LightGBM,26,191.11122425123375,,
+"LightGBM relative bc, 730d",LightGBM,27,116.2477311348402,,
+"LightGBM relative bc, 730d",LightGBM,28,86.82376060567874,,
+"LightGBM relative bc, 730d",LightGBM,29,92.0611240153026,,
+"LightGBM relative bc, 730d",LightGBM,30,140.07260088188937,,
+"LightGBM relative bc, 730d",LightGBM,31,110.32039658159472,,
+"LightGBM relative bc, 730d",LightGBM,32,166.50089041850725,,
+"LightGBM relative bc, 730d",LightGBM,33,357.23490341625205,,
+"LightGBM relative bc, 730d",LightGBM,34,506.53763995610575,,
+"LightGBM relative bc, 730d",LightGBM,35,687.7780192231616,,
+"LightGBM relative bc, 730d",LightGBM,36,749.1104421110177,,
+"LightGBM relative bc, 730d",LightGBM,37,907.8034139102634,,
+"LightGBM relative bc, 730d",LightGBM,38,817.6394162627782,,
+"LightGBM relative bc, 730d",LightGBM,39,504.0691752982424,,
+"LightGBM relative bc, 730d",LightGBM,40,316.58176261626636,,
+"LightGBM relative bc, 730d",LightGBM,41,132.5977798598237,,
+"LightGBM relative bc, 730d",LightGBM,42,96.76318785708844,,
+"LightGBM relative bc, 730d",LightGBM,43,118.49678302519251,,
+"LightGBM relative bc, 730d",LightGBM,44,90.01085858907203,,
+"LightGBM relative bc, 730d",LightGBM,45,94.25763450130118,,
+"LightGBM relative bc, 730d",LightGBM,46,96.59927173909644,,
+"LightGBM relative bc, 730d",LightGBM,47,142.3276885188833,,
+"LightGBM relative bc, 730d",LightGBM,48,116.20974231945,,
+"Prophet + weather log, 120d",Prophet,1,122.85730404767055,37.57020372485659,439.365160478243
+"Prophet + weather log, 120d",Prophet,2,111.05570689330978,40.16757672743971,332.0869436614206
+"Prophet + weather log, 120d",Prophet,3,111.87760221276147,32.789634926749635,419.2879076446845
+"Prophet + weather log, 120d",Prophet,4,100.49619898848212,29.088727242800672,311.7210491018825
+"Prophet + weather log, 120d",Prophet,5,108.0399545056346,37.94060589567262,335.01567075046006
+"Prophet + weather log, 120d",Prophet,6,91.66758662970771,25.918775045552017,281.20400047526135
+"Prophet + weather log, 120d",Prophet,7,210.05454585894867,59.71827457353046,722.4979912172207
+"Prophet + weather log, 120d",Prophet,8,321.4684852852178,97.08021053383624,1208.007477404508
+"Prophet + weather log, 120d",Prophet,9,512.0435488723624,132.96545111388536,1675.0130549106784
+"Prophet + weather log, 120d",Prophet,10,687.6146424583459,253.29041671693057,2161.80041723017
+"Prophet + weather log, 120d",Prophet,11,782.4703157615679,234.00936371461415,2752.867319931936
+"Prophet + weather log, 120d",Prophet,12,1057.6668107468024,269.3607324581644,3182.930168007922
+"Prophet + weather log, 120d",Prophet,13,1059.7346057718146,259.2210576429744,3381.926553285869
+"Prophet + weather log, 120d",Prophet,14,837.5967859762939,237.28365927823447,2913.842314815744
+"Prophet + weather log, 120d",Prophet,15,893.1087284582777,254.8458779517404,2949.0234580603906
+"Prophet + weather log, 120d",Prophet,16,401.17868309904776,106.73948753392952,1410.0377072209658
+"Prophet + weather log, 120d",Prophet,17,311.6284126956646,95.35700001709878,993.2473530791036
+"Prophet + weather log, 120d",Prophet,18,166.58319625285696,43.11522381834521,552.2989026982849
+"Prophet + weather log, 120d",Prophet,19,90.78448482853938,26.27857147561815,338.2044595659192
+"Prophet + weather log, 120d",Prophet,20,83.4868085345895,23.79804042156749,269.86398231623707
+"Prophet + weather log, 120d",Prophet,21,86.77804946728152,25.456726325503983,315.59037764882487
+"Prophet + weather log, 120d",Prophet,22,89.72092883532135,24.862008073678332,309.95566344582846
+"Prophet + weather log, 120d",Prophet,23,101.17970846863862,27.315904689120632,333.851755962786
+"Prophet + weather log, 120d",Prophet,24,103.59233240712898,29.701663103657108,387.1336368269838
+"Prophet + weather log, 120d",Prophet,25,123.11758262520677,37.63124431054462,413.979698614727
+"Prophet + weather log, 120d",Prophet,26,72.82004108426072,21.38888898646753,234.79286478606977
+"Prophet + weather log, 120d",Prophet,27,60.53975178108594,16.831677586924936,227.6539677705151
+"Prophet + weather log, 120d",Prophet,28,54.6657941675436,12.921537904910911,156.7356303309279
+"Prophet + weather log, 120d",Prophet,29,48.09848806784203,14.160213245388046,157.05956036214636
+"Prophet + weather log, 120d",Prophet,30,62.56714534503399,18.80306396818025,225.82685642945003
+"Prophet + weather log, 120d",Prophet,31,96.06845926205308,23.53872825136672,324.6230721629878
+"Prophet + weather log, 120d",Prophet,32,170.2712870867114,51.26175995347958,525.283429152437
+"Prophet + weather log, 120d",Prophet,33,329.26078785920197,99.7462780053129,1184.476477056175
+"Prophet + weather log, 120d",Prophet,34,460.10598614950624,130.14657458404784,1460.2795172624758
+"Prophet + weather log, 120d",Prophet,35,571.829354308712,180.37499353499945,1897.6519169841024
+"Prophet + weather log, 120d",Prophet,36,702.0966252567121,220.4567674001902,2560.5868273103683
+"Prophet + weather log, 120d",Prophet,37,890.0860783071868,291.01648868364816,2698.3907143268466
+"Prophet + weather log, 120d",Prophet,38,823.7115313940741,224.3074868455507,3008.7408745858916
+"Prophet + weather log, 120d",Prophet,39,684.8219507555035,206.0380628177473,2265.96082646688
+"Prophet + weather log, 120d",Prophet,40,295.17765253171603,92.8152032309028,983.6384771262396
+"Prophet + weather log, 120d",Prophet,41,151.53674648302544,46.13953150947801,540.7945473984255
+"Prophet + weather log, 120d",Prophet,42,90.9661770368645,24.582886488753243,313.738968160674
+"Prophet + weather log, 120d",Prophet,43,60.43045457512813,20.63732021275556,228.8481751222947
+"Prophet + weather log, 120d",Prophet,44,41.42291667575131,11.104071489522909,129.9791808988128
+"Prophet + weather log, 120d",Prophet,45,32.144856247373184,9.191316144177962,94.56102729341438
+"Prophet + weather log, 120d",Prophet,46,52.28583103317528,16.118746975432895,170.39353410362745
+"Prophet + weather log, 120d",Prophet,47,55.75758966096638,19.55245940219636,213.936130896609
+"Prophet + weather log, 120d",Prophet,48,50.739056014706186,12.844154764814704,188.44423161852225
+"Prophet + weather + sun log, 120d",Prophet,1,125.42799911775302,41.2394453793375,466.319222989465
+"Prophet + weather + sun log, 120d",Prophet,2,113.59401360781688,34.439594598944936,382.7389118007041
+"Prophet + weather + sun log, 120d",Prophet,3,114.51728510174142,28.85419918825563,348.8993379001808
+"Prophet + weather + sun log, 120d",Prophet,4,103.05516901096856,30.125361981893555,333.4931484534171
+"Prophet + weather + sun log, 120d",Prophet,5,111.27784873778847,34.82144537484019,385.08655187321887
+"Prophet + weather + sun log, 120d",Prophet,6,94.07278976858686,25.893490968612408,341.60539458189044
+"Prophet + weather + sun log, 120d",Prophet,7,212.9568533087215,59.20701785826649,733.5593311177734
+"Prophet + weather + sun log, 120d",Prophet,8,341.5678451941313,92.00571436006746,1293.4596791909007
+"Prophet + weather + sun log, 120d",Prophet,9,554.6356121285024,184.6488222388799,2190.6927405136485
+"Prophet + weather + sun log, 120d",Prophet,10,748.5458218363298,216.18780853604468,2292.602493787358
+"Prophet + weather + sun log, 120d",Prophet,11,836.2662236750725,259.5661387822417,2920.126701953094
+"Prophet + weather + sun log, 120d",Prophet,12,1088.1697977029994,284.0838816106338,4014.474681415384
+"Prophet + weather + sun log, 120d",Prophet,13,1037.725934774357,315.7682754708265,3198.55398620619
+"Prophet + weather + sun log, 120d",Prophet,14,774.7107974268687,249.0882398211794,2439.1120966275907
+"Prophet + weather + sun log, 120d",Prophet,15,775.4420562588929,228.31213273847757,2633.012854350682
+"Prophet + weather + sun log, 120d",Prophet,16,363.82827697767976,107.60985496792328,1151.9994745508272
+"Prophet + weather + sun log, 120d",Prophet,17,300.6104047461671,94.68006888710464,1241.2194362100354
+"Prophet + weather + sun log, 120d",Prophet,18,168.59460016564634,51.17053235652111,520.8141051494415
+"Prophet + weather + sun log, 120d",Prophet,19,94.17745323214808,27.94204401150385,273.26854350928807
+"Prophet + weather + sun log, 120d",Prophet,20,85.63507916457714,26.218987148325763,272.400235417893
+"Prophet + weather + sun log, 120d",Prophet,21,88.73819383582773,25.19268186678814,292.08658693057635
+"Prophet + weather + sun log, 120d",Prophet,22,92.09371306089534,29.07623934846607,289.8219908912328
+"Prophet + weather + sun log, 120d",Prophet,23,103.40885977534816,30.81187405719024,388.87920767733095
+"Prophet + weather + sun log, 120d",Prophet,24,106.6917065610638,31.236353801045233,351.7878029314269
+"Prophet + weather + sun log, 120d",Prophet,25,126.72130472887766,46.47323445217188,449.67990975377825
+"Prophet + weather + sun log, 120d",Prophet,26,75.76111619287819,22.453540716403527,270.5712832699889
+"Prophet + weather + sun log, 120d",Prophet,27,63.16758997052454,17.837354869310165,195.9906610428181
+"Prophet + weather + sun log, 120d",Prophet,28,57.02646751121575,14.192781640084425,192.82924578589677
+"Prophet + weather + sun log, 120d",Prophet,29,50.51331141906949,14.64451104952121,177.51329450750532
+"Prophet + weather + sun log, 120d",Prophet,30,65.05976709725724,15.840415008163449,189.5085305492247
+"Prophet + weather + sun log, 120d",Prophet,31,99.3212247312895,24.978903265761417,314.7809963148338
+"Prophet + weather + sun log, 120d",Prophet,32,183.4468620923457,61.78496124839834,639.5397702480585
+"Prophet + weather + sun log, 120d",Prophet,33,361.9978278402958,106.5039656555228,1094.1132032162295
+"Prophet + weather + sun log, 120d",Prophet,34,507.494916803464,155.7186641656295,1830.2272644060104
+"Prophet + weather + sun log, 120d",Prophet,35,619.3465444247769,207.44027920032224,1883.2074402340547
+"Prophet + weather + sun log, 120d",Prophet,36,732.1108780335555,233.57682918922217,2648.1826008894523
+"Prophet + weather + sun log, 120d",Prophet,37,875.0967354151987,287.7469666503175,3184.7135493956157
+"Prophet + weather + sun log, 120d",Prophet,38,761.3291690312152,212.1260058276753,2495.1935264088775
+"Prophet + weather + sun log, 120d",Prophet,39,598.5070990839167,172.60783577266093,1701.247182870089
+"Prophet + weather + sun log, 120d",Prophet,40,272.7756642272757,73.41009002299684,843.3656494667755
+"Prophet + weather + sun log, 120d",Prophet,41,149.30214693998408,42.81014061751071,519.1383168962044
+"Prophet + weather + sun log, 120d",Prophet,42,93.74492174921994,29.52260220517306,341.83732530614674
+"Prophet + weather + sun log, 120d",Prophet,43,63.646836415018406,20.982869523806603,198.12091036337324
+"Prophet + weather + sun log, 120d",Prophet,44,43.25373943146094,12.9795709869721,137.94339064062453
+"Prophet + weather + sun log, 120d",Prophet,45,33.63249984637663,10.47064998544196,117.43762299112409
+"Prophet + weather + sun log, 120d",Prophet,46,54.60287134739214,15.14221187275733,215.33870146649585
+"Prophet + weather + sun log, 120d",Prophet,47,58.210238265798885,15.59588029217058,183.0763974565753
+"Prophet + weather + sun log, 120d",Prophet,48,25.309550334726545,8.3825772792625,90.89865340376008
+"Prophet + weather + sun log, 60d",Prophet,1,141.2968590752552,33.673291419730624,605.4012492849517
+"Prophet + weather + sun log, 60d",Prophet,2,122.15267993375902,25.02320465683029,457.4087992645304
+"Prophet + weather + sun log, 60d",Prophet,3,130.63221309997988,31.711876948897523,445.7070516705933
+"Prophet + weather + sun log, 60d",Prophet,4,108.76933043811177,27.768696296807853,437.8778266674995
+"Prophet + weather + sun log, 60d",Prophet,5,109.54506762435396,26.594779741299675,412.63850318395873
+"Prophet + weather + sun log, 60d",Prophet,6,94.71924032792975,24.31640997332218,342.32388531295004
+"Prophet + weather + sun log, 60d",Prophet,7,194.39877403436105,44.603234724895295,876.986417513359
+"Prophet + weather + sun log, 60d",Prophet,8,224.1778632876162,54.18449171403027,937.6009507172464
+"Prophet + weather + sun log, 60d",Prophet,9,395.5985095286241,103.52781296317464,1666.4536846054832
+"Prophet + weather + sun log, 60d",Prophet,10,514.6104763121352,135.73711051160532,2214.850214032114
+"Prophet + weather + sun log, 60d",Prophet,11,704.28643716759,163.90377409115763,3116.9939547712484
+"Prophet + weather + sun log, 60d",Prophet,12,1231.8960561922077,279.9571713706362,5022.156042607941
+"Prophet + weather + sun log, 60d",Prophet,13,1527.0315331800746,469.21611968821816,5759.846499874331
+"Prophet + weather + sun log, 60d",Prophet,14,1450.8837992791414,387.16174508420914,6754.94421017982
+"Prophet + weather + sun log, 60d",Prophet,15,1908.9182535174152,521.5726277453182,8216.394469725172
+"Prophet + weather + sun log, 60d",Prophet,16,671.565000299438,193.51785328514063,2234.061506881402
+"Prophet + weather + sun log, 60d",Prophet,17,356.4064178717527,78.68524483749678,1407.7800802409722
+"Prophet + weather + sun log, 60d",Prophet,18,137.10920211125722,30.64162708210217,463.30250963292184
+"Prophet + weather + sun log, 60d",Prophet,19,71.80535435129065,14.485923525735783,282.7735577093187
+"Prophet + weather + sun log, 60d",Prophet,20,76.07146503551778,19.24637039101778,301.79534639981324
+"Prophet + weather + sun log, 60d",Prophet,21,82.61065922578285,18.894998408398063,340.9738722652556
+"Prophet + weather + sun log, 60d",Prophet,22,86.45365855890397,20.481043926299876,315.271489246177
+"Prophet + weather + sun log, 60d",Prophet,23,112.03669788666542,24.527938751632895,408.06846241104034
+"Prophet + weather + sun log, 60d",Prophet,24,112.88886862369148,31.106622884208427,442.60220292443194
+"Prophet + weather + sun log, 60d",Prophet,25,136.2600874131586,37.618676840206845,518.2769142617075
+"Prophet + weather + sun log, 60d",Prophet,26,62.17150914203928,14.609432180548144,241.2757614705715
+"Prophet + weather + sun log, 60d",Prophet,27,50.89135975987501,11.386325156034651,165.38291563772003
+"Prophet + weather + sun log, 60d",Prophet,28,44.52677884218844,11.71330076441732,150.3859610034189
+"Prophet + weather + sun log, 60d",Prophet,29,33.79391513164845,9.48141531113442,134.2291272067893
+"Prophet + weather + sun log, 60d",Prophet,30,53.808485765109026,14.70693274358283,243.8753113363568
+"Prophet + weather + sun log, 60d",Prophet,31,61.90758768692774,13.95123929451081,240.80617211633427
+"Prophet + weather + sun log, 60d",Prophet,32,90.755896954849,22.46228843392211,355.67676496224345
+"Prophet + weather + sun log, 60d",Prophet,33,190.67169701697975,48.90316231054597,788.1318312739743
+"Prophet + weather + sun log, 60d",Prophet,34,285.6166809959064,73.4503182854084,1172.2654948888037
+"Prophet + weather + sun log, 60d",Prophet,35,382.43535815798305,104.31282221646816,1365.8585692584843
+"Prophet + weather + sun log, 60d",Prophet,36,578.46976376506,160.10249012372356,2425.5556544713827
+"Prophet + weather + sun log, 60d",Prophet,37,948.2827169803472,232.33765485487768,4123.112552436389
+"Prophet + weather + sun log, 60d",Prophet,38,1102.9625228776688,270.79752332675594,4623.711888625468
+"Prophet + weather + sun log, 60d",Prophet,39,1078.5612881999225,281.24076228682003,5045.389813547336
+"Prophet + weather + sun log, 60d",Prophet,40,372.8369933703032,92.32653298341064,1439.2777535191676
+"Prophet + weather + sun log, 60d",Prophet,41,116.17937923860612,30.809782791768544,484.29731691837134
+"Prophet + weather + sun log, 60d",Prophet,42,54.05110512486628,13.32944795588589,268.78813843709094
+"Prophet + weather + sun log, 60d",Prophet,43,37.92632144965418,9.641970942104363,130.64191507410845
+"Prophet + weather + sun log, 60d",Prophet,44,27.26952809887815,7.620429847101955,110.6299682039342
+"Prophet + weather + sun log, 60d",Prophet,45,19.13665554518798,3.945113232014777,80.35801447028912
+"Prophet + weather + sun log, 60d",Prophet,46,37.702977914941286,9.409424361453686,148.10315783739125
+"Prophet + weather + sun log, 60d",Prophet,47,42.87510878665828,10.864589594443691,175.85294263945195
+"Prophet + weather + sun log, 60d",Prophet,48,14.554367154089627,3.891755404383632,52.43249238237993
+"Analog days k=20, 365d",analog,1,95.20199216486476,36.15278060297965,182.81661647418463
+"Analog days k=20, 365d",analog,2,105.09761251131842,38.94672475045812,177.78465959943262
+"Analog days k=20, 365d",analog,3,118.30643050286184,44.03476575841091,223.1506011786623
+"Analog days k=20, 365d",analog,4,79.12661559296855,17.537306053742434,150.56276723468665
+"Analog days k=20, 365d",analog,5,89.32789148607564,14.28920840044679,172.16161504798723
+"Analog days k=20, 365d",analog,6,90.39484304281832,12.16653613735007,187.93772697023073
+"Analog days k=20, 365d",analog,7,94.28656357557168,28.566425177308783,192.11597526008376
+"Analog days k=20, 365d",analog,8,141.4550847872818,49.29411917181511,257.37725597143026
+"Analog days k=20, 365d",analog,9,215.7811567233703,80.96715271866228,377.9140978542683
+"Analog days k=20, 365d",analog,10,230.99220428476767,119.46294784712023,604.2617060382175
+"Analog days k=20, 365d",analog,11,264.6580448641897,95.96753498025096,648.5416274369055
+"Analog days k=20, 365d",analog,12,289.38259709754686,93.20713221992273,765.558543206607
+"Analog days k=20, 365d",analog,13,262.634899426911,131.92702471027846,577.4134111698712
+"Analog days k=20, 365d",analog,14,215.28647808446345,52.040080083791125,546.3284958739936
+"Analog days k=20, 365d",analog,15,152.96702366706077,44.83410956377458,453.0936915468157
+"Analog days k=20, 365d",analog,16,87.61366732640616,16.071194433809957,456.59427141165247
+"Analog days k=20, 365d",analog,17,95.68523111286044,8.183438486213534,204.76015266718855
+"Analog days k=20, 365d",analog,18,80.82892371644876,11.941529076159206,204.0677914973912
+"Analog days k=20, 365d",analog,19,60.4430877472638,3.018418891532964,209.9147039150553
+"Analog days k=20, 365d",analog,20,69.95918461898441,0.8599051822594626,147.7800597783897
+"Analog days k=20, 365d",analog,21,90.24464099082702,10.270192577168874,230.5852650754852
+"Analog days k=20, 365d",analog,22,79.56438902787858,8.654369344404667,183.46305408818856
+"Analog days k=20, 365d",analog,23,80.250995299055,30.430848931694303,150.55020049230387
+"Analog days k=20, 365d",analog,24,70.7296392415592,15.290985093429098,171.8137638336881
+"Analog days k=20, 365d",analog,25,133.8541672283694,41.304719712918306,211.10719868451116
+"Analog days k=20, 365d",analog,26,107.09896627093973,14.323643323718988,223.75049176339988
+"Analog days k=20, 365d",analog,27,55.770420476569335,0.4990734294719653,210.21677552694004
+"Analog days k=20, 365d",analog,28,38.61860129277881,2.330436481366568,188.57306615832803
+"Analog days k=20, 365d",analog,29,33.56451876878365,6.572883464923429,167.38231707398197
+"Analog days k=20, 365d",analog,30,43.56565165846173,7.799673647701394,194.24430661013125
+"Analog days k=20, 365d",analog,31,39.48282942846573,7.563301516437491,185.9963283466452
+"Analog days k=20, 365d",analog,32,151.7879356310757,45.40402941865382,275.26853753713493
+"Analog days k=20, 365d",analog,33,179.52748899994248,99.71465543050888,435.2927599283954
+"Analog days k=20, 365d",analog,34,271.43389657139,66.350141399768,668.9751418129604
+"Analog days k=20, 365d",analog,35,382.0482828314988,113.2306200383394,789.7137076910267
+"Analog days k=20, 365d",analog,36,442.2819177796146,100.70000725157584,794.1913653601732
+"Analog days k=20, 365d",analog,37,493.20473983443776,200.44048701469225,976.407691215006
+"Analog days k=20, 365d",analog,38,327.11600411435785,233.9993028610426,859.3549060054903
+"Analog days k=20, 365d",analog,39,258.4481890241442,67.0186214792544,752.5916525574556
+"Analog days k=20, 365d",analog,40,208.01862593326268,24.321825772510543,398.1058252164414
+"Analog days k=20, 365d",analog,41,108.13791410901554,4.321751753115896,288.3829129074365
+"Analog days k=20, 365d",analog,42,48.15494844835945,7.071084357065438,204.99783657164497
+"Analog days k=20, 365d",analog,43,89.07707385516493,5.601365396401217,224.69347947323973
+"Analog days k=20, 365d",analog,44,45.61912143030402,1.9006592484016616,204.54635003434336
+"Analog days k=20, 365d",analog,45,57.25566760483569,2.1639802640561743,185.70224564275105
+"Analog days k=20, 365d",analog,46,72.68704121860989,3.218593231965235,226.39401328148327
+"Analog days k=20, 365d",analog,47,84.70240167958657,4.828532063681014,253.56614694392263
+"Analog days k=20, 365d",analog,48,150.16926382865134,7.0854082361478286,316.62569806384744
+"Analog days k=40, 365d",analog,1,110.38882980082518,31.527548915306177,232.48591242131988
+"Analog days k=40, 365d",analog,2,101.23187367767918,28.0918950193413,186.4749950484804
+"Analog days k=40, 365d",analog,3,103.65408553648932,29.464630464953068,187.16761001903268
+"Analog days k=40, 365d",analog,4,67.34189932082593,17.61915891858594,163.2805224817331
+"Analog days k=40, 365d",analog,5,76.4206032736994,17.520469312885176,160.01861508814872
+"Analog days k=40, 365d",analog,6,80.07663700952747,14.082913419555982,179.00170804129598
+"Analog days k=40, 365d",analog,7,93.60052161270792,18.305225615135445,205.63334704305817
+"Analog days k=40, 365d",analog,8,152.64920937885088,63.09153552142585,241.98085849954768
+"Analog days k=40, 365d",analog,9,213.0071016498951,55.23961806287294,357.484045305108
+"Analog days k=40, 365d",analog,10,227.2761879535132,68.19472214141962,548.8412974973469
+"Analog days k=40, 365d",analog,11,276.2460430750291,77.87730271733491,654.7205212508624
+"Analog days k=40, 365d",analog,12,275.0838120461522,70.22442380272284,649.9681065822317
+"Analog days k=40, 365d",analog,13,256.6142195462024,64.52917948212104,580.7365064616687
+"Analog days k=40, 365d",analog,14,222.80651243784047,60.97153346698943,549.4088904844274
+"Analog days k=40, 365d",analog,15,164.68618605545473,38.21625801843796,498.2662974406572
+"Analog days k=40, 365d",analog,16,108.63537047472212,10.165911783376714,384.877297928748
+"Analog days k=40, 365d",analog,17,94.25910238912992,11.261251490423902,261.81841411263065
+"Analog days k=40, 365d",analog,18,80.32441187405635,10.356767730809056,249.81443505593325
+"Analog days k=40, 365d",analog,19,74.41741218083027,5.654751019231504,220.0876100623546
+"Analog days k=40, 365d",analog,20,69.95918461898441,1.3032058258848995,223.40179742266565
+"Analog days k=40, 365d",analog,21,78.04212884922426,5.332234169661393,225.18731356093588
+"Analog days k=40, 365d",analog,22,77.5313230780305,5.7908570707852824,229.02536749363577
+"Analog days k=40, 365d",analog,23,80.250995299055,10.358460136417406,226.624702973536
+"Analog days k=40, 365d",analog,24,69.47249712289059,8.870244704018267,188.69366069084
+"Analog days k=40, 365d",analog,25,107.05997009104836,31.620459200284927,233.1710380691981
+"Analog days k=40, 365d",analog,26,90.8092939706774,9.231534307949437,223.6216741477556
+"Analog days k=40, 365d",analog,27,83.78748771042078,1.3937659966496203,217.3728031644819
+"Analog days k=40, 365d",analog,28,40.425977790399195,6.24136808910547,206.20831805905115
+"Analog days k=40, 365d",analog,29,45.19109408065494,5.708948869201786,221.80588056574155
+"Analog days k=40, 365d",analog,30,39.50610277785059,7.60397364400438,206.42177936236615
+"Analog days k=40, 365d",analog,31,39.48282942846573,7.230019527562716,182.38242947435305
+"Analog days k=40, 365d",analog,32,133.31410027716046,19.09928809975081,238.87636242605203
+"Analog days k=40, 365d",analog,33,187.8477838077162,81.07024112267261,431.547359863362
+"Analog days k=40, 365d",analog,34,231.76976724448565,59.07514464590945,552.2783220600245
+"Analog days k=40, 365d",analog,35,359.48286320371534,106.92607547530932,797.2375996615907
+"Analog days k=40, 365d",analog,36,328.1903210854699,118.5579085879259,706.0028197475913
+"Analog days k=40, 365d",analog,37,404.4718581642531,193.6882526499825,840.2530447613831
+"Analog days k=40, 365d",analog,38,341.68400547127163,205.49755474242448,788.8209209842832
+"Analog days k=40, 365d",analog,39,204.38681823341636,38.71464444698323,497.30403697202263
+"Analog days k=40, 365d",analog,40,153.6380070000859,12.576564118723889,390.3899368508284
+"Analog days k=40, 365d",analog,41,102.04625360977296,9.198507000701406,284.7078706383319
+"Analog days k=40, 365d",analog,42,58.819808449948624,4.752499139121542,198.7702723561679
+"Analog days k=40, 365d",analog,43,56.42141240288671,6.3420808839382765,217.41339820192704
+"Analog days k=40, 365d",analog,44,43.71699557839133,4.681793045517404,240.07413107798317
+"Analog days k=40, 365d",analog,45,51.06261796646576,2.8592393408018806,189.4313193862994
+"Analog days k=40, 365d",analog,46,55.09443230390551,3.278347807814682,243.22952556344103
+"Analog days k=40, 365d",analog,47,86.36246772424482,6.1052474389716265,262.23130524296147
+"Analog days k=40, 365d",analog,48,133.93335242349212,15.051685107412393,290.17870918429924
+"Analog days k=80, 365d",analog,1,79.51881186436292,10.175433444770368,229.2699726451133
+"Analog days k=80, 365d",analog,2,77.25554898166061,10.596292878585212,216.16737884398907
+"Analog days k=80, 365d",analog,3,80.6691006519364,12.23203868212861,206.60731319344893
+"Analog days k=80, 365d",analog,4,74.10864938681235,17.61915891858594,192.0048947266475
+"Analog days k=80, 365d",analog,5,75.40467313660389,17.61404272066121,185.8284574558253
+"Analog days k=80, 365d",analog,6,88.75428801448545,10.319620798720276,245.39177748302924
+"Analog days k=80, 365d",analog,7,95.3036918456882,14.982636378722503,230.879936272232
+"Analog days k=80, 365d",analog,8,152.64920937885088,42.80894664200348,341.4144303950734
+"Analog days k=80, 365d",analog,9,213.0071016498951,60.99376453842441,408.63826312191895
+"Analog days k=80, 365d",analog,10,225.5105622740871,65.40428578865608,501.50256751264834
+"Analog days k=80, 365d",analog,11,269.0133085727226,69.03362330217892,652.908042612347
+"Analog days k=80, 365d",analog,12,267.86742349396394,70.22442380272284,645.8870244332361
+"Analog days k=80, 365d",analog,13,262.0613309423423,64.63113919485116,589.6564525209446
+"Analog days k=80, 365d",analog,14,213.33901699672165,61.17044862306617,549.1507089295012
+"Analog days k=80, 365d",analog,15,170.9502753838107,38.25281321569045,450.41941848776617
+"Analog days k=80, 365d",analog,16,124.42886406048096,13.228724127744329,380.9737618583022
+"Analog days k=80, 365d",analog,17,101.02581103066306,7.660037944188793,277.5305813098444
+"Analog days k=80, 365d",analog,18,86.33216896834074,10.244223130499384,249.8144350559328
+"Analog days k=80, 365d",analog,19,83.95689299969946,3.623121716800216,218.84124344848584
+"Analog days k=80, 365d",analog,20,87.00768485612315,3.1220456801266656,222.77322247536483
+"Analog days k=80, 365d",analog,21,82.56874052858733,4.219013977453305,202.23991595123573
+"Analog days k=80, 365d",analog,22,89.6612309848365,13.09827284311467,229.7778618586055
+"Analog days k=80, 365d",analog,23,87.12031886957526,10.358460136417406,229.1848159229386
+"Analog days k=80, 365d",analog,24,70.7296392415592,6.393121347140354,221.68289088472488
+"Analog days k=80, 365d",analog,25,74.66718474269798,10.2054199947453,229.9456210614476
+"Analog days k=80, 365d",analog,26,85.46398456891453,6.724521232288091,333.57976582369537
+"Analog days k=80, 365d",analog,27,83.78748771042078,4.51627422113958,282.73527683842593
+"Analog days k=80, 365d",analog,28,67.62289978834654,2.7632483146556592,335.4933426944762
+"Analog days k=80, 365d",analog,29,51.43210466733406,3.161693441032506,307.9752477048433
+"Analog days k=80, 365d",analog,30,79.94655571531192,7.60397364400438,277.85614399549166
+"Analog days k=80, 365d",analog,31,79.22947309888575,8.144608660355026,330.92986226030195
+"Analog days k=80, 365d",analog,32,133.31410027716046,26.969142022951743,283.08177387027945
+"Analog days k=80, 365d",analog,33,196.3335452810084,73.13808989087877,440.1517361831744
+"Analog days k=80, 365d",analog,34,234.4293083127708,61.31545242132925,607.2793361455691
+"Analog days k=80, 365d",analog,35,323.604939885616,80.3235752987359,688.1044254724103
+"Analog days k=80, 365d",analog,36,290.2298805631187,85.79912976177908,677.3140918936613
+"Analog days k=80, 365d",analog,37,382.5792609078856,149.3897968881286,803.4849225403109
+"Analog days k=80, 365d",analog,38,341.68400547127163,125.36060649060688,765.8631222879568
+"Analog days k=80, 365d",analog,39,208.2917249599693,38.71464444698323,554.2657704630274
+"Analog days k=80, 365d",analog,40,147.89367379688105,11.807040263581593,377.01941782322825
+"Analog days k=80, 365d",analog,41,119.25126436792092,9.494647605625646,321.84551052543713
+"Analog days k=80, 365d",analog,42,76.38603315463595,8.301550010696076,266.7089825919497
+"Analog days k=80, 365d",analog,43,74.94782903538461,7.121151295477527,261.8468471331518
+"Analog days k=80, 365d",analog,44,77.21555757313946,1.6019421713781343,244.52829361382615
+"Analog days k=80, 365d",analog,45,70.58238640240852,4.037332244317621,315.99455101510966
+"Analog days k=80, 365d",analog,46,77.56546218370103,3.278347807814682,242.2677673401526
+"Analog days k=80, 365d",analog,47,118.4337205515108,6.112470089396009,318.7892526775865
+"Analog days k=80, 365d",analog,48,121.70025835128148,3.896325495291429,398.4103160775945
+"LightGBM season-weighted relative log, 730d",LightGBM,1,102.61622688120427,,
+"LightGBM season-weighted relative log, 730d",LightGBM,2,90.84535542777022,,
+"LightGBM season-weighted relative log, 730d",LightGBM,3,79.3768908031703,,
+"LightGBM season-weighted relative log, 730d",LightGBM,4,65.3666750562552,,
+"LightGBM season-weighted relative log, 730d",LightGBM,5,98.77738996604239,,
+"LightGBM season-weighted relative log, 730d",LightGBM,6,135.40602714891008,,
+"LightGBM season-weighted relative log, 730d",LightGBM,7,127.4356736514645,,
+"LightGBM season-weighted relative log, 730d",LightGBM,8,163.82409908955555,,
+"LightGBM season-weighted relative log, 730d",LightGBM,9,327.5996351313941,,
+"LightGBM season-weighted relative log, 730d",LightGBM,10,662.1588850521074,,
+"LightGBM season-weighted relative log, 730d",LightGBM,11,686.654751702219,,
+"LightGBM season-weighted relative log, 730d",LightGBM,12,726.4290765325633,,
+"LightGBM season-weighted relative log, 730d",LightGBM,13,716.4244398430596,,
+"LightGBM season-weighted relative log, 730d",LightGBM,14,734.1638121124098,,
+"LightGBM season-weighted relative log, 730d",LightGBM,15,656.8133792585844,,
+"LightGBM season-weighted relative log, 730d",LightGBM,16,465.40823278686094,,
+"LightGBM season-weighted relative log, 730d",LightGBM,17,206.44904616988993,,
+"LightGBM season-weighted relative log, 730d",LightGBM,18,142.49896415591334,,
+"LightGBM season-weighted relative log, 730d",LightGBM,19,77.87992529957783,,
+"LightGBM season-weighted relative log, 730d",LightGBM,20,42.67661186767313,,
+"LightGBM season-weighted relative log, 730d",LightGBM,21,74.04862107101454,,
+"LightGBM season-weighted relative log, 730d",LightGBM,22,79.56274962750697,,
+"LightGBM season-weighted relative log, 730d",LightGBM,23,126.48438769676477,,
+"LightGBM season-weighted relative log, 730d",LightGBM,24,132.5397949605032,,
+"LightGBM season-weighted relative log, 730d",LightGBM,25,157.189351847093,,
+"LightGBM season-weighted relative log, 730d",LightGBM,26,174.2925390881713,,
+"LightGBM season-weighted relative log, 730d",LightGBM,27,65.93365872582267,,
+"LightGBM season-weighted relative log, 730d",LightGBM,28,43.698658352557324,,
+"LightGBM season-weighted relative log, 730d",LightGBM,29,41.54758360370668,,
+"LightGBM season-weighted relative log, 730d",LightGBM,30,121.51811795878808,,
+"LightGBM season-weighted relative log, 730d",LightGBM,31,81.07608538165937,,
+"LightGBM season-weighted relative log, 730d",LightGBM,32,120.2696219830942,,
+"LightGBM season-weighted relative log, 730d",LightGBM,33,356.78125495555713,,
+"LightGBM season-weighted relative log, 730d",LightGBM,34,606.1948340436222,,
+"LightGBM season-weighted relative log, 730d",LightGBM,35,762.3918777587735,,
+"LightGBM season-weighted relative log, 730d",LightGBM,36,727.6270315824619,,
+"LightGBM season-weighted relative log, 730d",LightGBM,37,936.4323081700142,,
+"LightGBM season-weighted relative log, 730d",LightGBM,38,850.9762238070875,,
+"LightGBM season-weighted relative log, 730d",LightGBM,39,717.4919769041569,,
+"LightGBM season-weighted relative log, 730d",LightGBM,40,319.77017262175565,,
+"LightGBM season-weighted relative log, 730d",LightGBM,41,182.06910298387132,,
+"LightGBM season-weighted relative log, 730d",LightGBM,42,72.85621612344472,,
+"LightGBM season-weighted relative log, 730d",LightGBM,43,128.47860785130635,,
+"LightGBM season-weighted relative log, 730d",LightGBM,44,50.213407810218094,,
+"LightGBM season-weighted relative log, 730d",LightGBM,45,74.74204876190547,,
+"LightGBM season-weighted relative log, 730d",LightGBM,46,63.12877039324591,,
+"LightGBM season-weighted relative log, 730d",LightGBM,47,101.67519883119512,,
+"LightGBM season-weighted relative log, 730d",LightGBM,48,72.20501302732528,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,1,115.69496424815148,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,2,113.70268039451177,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,3,76.31575499799114,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,4,65.41810084175927,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,5,100.65999887271244,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,6,86.28969372353413,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,7,98.66601822954529,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,8,170.9928353251256,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,9,339.6408424853229,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,10,678.2698878693269,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,11,763.2556284637067,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,12,829.4500305859162,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,13,813.0141475009449,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,14,783.4889629213251,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,15,753.8734993023285,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,16,368.3976001235404,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,17,158.74114078066333,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,18,83.73527697461363,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,19,56.787149015063996,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,20,57.99958984898784,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,21,82.83019931470648,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,22,81.175069317835,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,23,121.39565225288024,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,24,94.59279931637145,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,25,195.82866240927248,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,26,141.97472250121163,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,27,34.439085857132824,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,28,17.112547060230327,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,29,16.373766380313985,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,30,55.47603536612546,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,31,81.49338911166764,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,32,153.8743993745699,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,33,398.83287231554846,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,34,575.174843323351,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,35,721.505174424938,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,36,679.2877538384938,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,37,892.1483213351365,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,38,799.230385652151,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,39,617.395127225691,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,40,272.37261705440096,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,41,134.622369570893,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,42,60.05814014938745,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,43,94.15748806463307,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,44,39.67378679610628,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,45,59.48643685162074,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,46,41.015538261284355,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,47,91.49982229738715,,
+"LightGBM recent-weighted relative log, 730d",LightGBM,48,64.07718637117753,,
+"LightGBM relative log, 1095d",LightGBM,1,127.28787776063066,,
+"LightGBM relative log, 1095d",LightGBM,2,116.9921761607728,,
+"LightGBM relative log, 1095d",LightGBM,3,106.72811311010244,,
+"LightGBM relative log, 1095d",LightGBM,4,71.91637854997671,,
+"LightGBM relative log, 1095d",LightGBM,5,114.50058647207057,,
+"LightGBM relative log, 1095d",LightGBM,6,103.7105173510066,,
+"LightGBM relative log, 1095d",LightGBM,7,73.58603431633402,,
+"LightGBM relative log, 1095d",LightGBM,8,147.86913040716533,,
+"LightGBM relative log, 1095d",LightGBM,9,315.9553240266563,,
+"LightGBM relative log, 1095d",LightGBM,10,618.7674687113167,,
+"LightGBM relative log, 1095d",LightGBM,11,784.3873415486614,,
+"LightGBM relative log, 1095d",LightGBM,12,842.5640975291161,,
+"LightGBM relative log, 1095d",LightGBM,13,824.8370369434834,,
+"LightGBM relative log, 1095d",LightGBM,14,796.0420239036362,,
+"LightGBM relative log, 1095d",LightGBM,15,649.5917690548197,,
+"LightGBM relative log, 1095d",LightGBM,16,239.58589430239635,,
+"LightGBM relative log, 1095d",LightGBM,17,185.27463787803504,,
+"LightGBM relative log, 1095d",LightGBM,18,82.50916677256392,,
+"LightGBM relative log, 1095d",LightGBM,19,56.99229231170749,,
+"LightGBM relative log, 1095d",LightGBM,20,66.15712031479725,,
+"LightGBM relative log, 1095d",LightGBM,21,75.60252114434215,,
+"LightGBM relative log, 1095d",LightGBM,22,77.94002958852707,,
+"LightGBM relative log, 1095d",LightGBM,23,129.4951960875034,,
+"LightGBM relative log, 1095d",LightGBM,24,119.01543047923865,,
+"LightGBM relative log, 1095d",LightGBM,25,159.29004599944764,,
+"LightGBM relative log, 1095d",LightGBM,26,152.56727159895644,,
+"LightGBM relative log, 1095d",LightGBM,27,49.521122575016854,,
+"LightGBM relative log, 1095d",LightGBM,28,33.81149840732701,,
+"LightGBM relative log, 1095d",LightGBM,29,31.856383395617133,,
+"LightGBM relative log, 1095d",LightGBM,30,56.59199413499375,,
+"LightGBM relative log, 1095d",LightGBM,31,63.382556090416095,,
+"LightGBM relative log, 1095d",LightGBM,32,90.77576970157058,,
+"LightGBM relative log, 1095d",LightGBM,33,302.7651454479686,,
+"LightGBM relative log, 1095d",LightGBM,34,418.6661025675796,,
+"LightGBM relative log, 1095d",LightGBM,35,715.1543648138743,,
+"LightGBM relative log, 1095d",LightGBM,36,701.1451680955006,,
+"LightGBM relative log, 1095d",LightGBM,37,845.291338289379,,
+"LightGBM relative log, 1095d",LightGBM,38,839.9410703137072,,
+"LightGBM relative log, 1095d",LightGBM,39,524.1951826164221,,
+"LightGBM relative log, 1095d",LightGBM,40,196.89855382860512,,
+"LightGBM relative log, 1095d",LightGBM,41,63.68442105873031,,
+"LightGBM relative log, 1095d",LightGBM,42,58.0644134136617,,
+"LightGBM relative log, 1095d",LightGBM,43,87.76365116163069,,
+"LightGBM relative log, 1095d",LightGBM,44,40.51510465791624,,
+"LightGBM relative log, 1095d",LightGBM,45,60.802538553426004,,
+"LightGBM relative log, 1095d",LightGBM,46,54.94699505921827,,
+"LightGBM relative log, 1095d",LightGBM,47,101.18169876050725,,
+"LightGBM relative log, 1095d",LightGBM,48,59.252048704668084,,

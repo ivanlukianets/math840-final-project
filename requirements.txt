@@ -1,0 +1,16 @@
+# Python 3.12. Enough for the main notebook, the four family notebooks and the report.
+# The Colab notebook installs its own packages (foundation models, neural networks) in its first cells.
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.16.0
+matplotlib==3.10.3
+statsmodels==0.15.0
+statsforecast==2.1.1
+coreforecast==0.0.18
+lightgbm==4.7.0
+prophet==1.5.0
+scikit-learn==1.7.1
+python-dotenv==1.2.4
+jupyter==1.1.1
+nbconvert==7.16.6
+ipykernel==6.30.1

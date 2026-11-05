@@ -1,0 +1,24 @@
+# Allowlist: everything in this folder is ignored except the files listed here.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/requirements.txt
+!/LUKIANETS_project.csv
+!/LUKIANETS_project_v2.ipynb
+!/LUKIANETS_project_colab.ipynb
+!/LUKIANETS_report.ipynb
+!/LUKIANETS_slides.pdf
+!/family_ARIMA.ipynb
+!/family_ETS.ipynb
+!/family_ML.ipynb
+!/family_decomposition.ipynb
+!/train.csv
+!/weather_forecast.csv
+!/results/
+
+# Never commit keys or system files, wherever they are.
+.env
+.env.*
+.DS_Store
+.ipynb_checkpoints/

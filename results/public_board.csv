@@ -1,0 +1,3 @@
+,RMSE,MAPE,Winkler,coverage
+this model (2.13),81.7,38.2,741,1.0
+seasonal naive,115.7,84.3,521,1.0

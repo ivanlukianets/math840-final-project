@@ -1,0 +1,573 @@
+model,family
+mean of last 2 days,simple
+mean of last 3 days,simple
+median of last 7 days,simple
+"ETS(A,Ad,A) bc, 1w",ETS
+"ETS(A,Ad,A) bc, 2w",ETS
+"ETS(A,Ad,A) bc, 4w",ETS
+"ETS(A,Ad,A) bc, 8w",ETS
+"ETS(A,Ad,A) bc, 12w",ETS
+"ETS(A,Ad,A) bc, 26w",ETS
+"ETS(A,N,A) bc, 1w",ETS
+"ETS(A,N,A) bc, 2w",ETS
+"ETS(A,N,A) bc, 4w",ETS
+"ETS(A,N,A) bc, 8w",ETS
+"ETS(A,N,A) bc, 12w",ETS
+"ETS(A,N,A) bc, 26w",ETS
+"ETS(A,Ad,A) log, 1w",ETS
+"ETS(A,Ad,A) log, 2w",ETS
+"ETS(A,Ad,A) log, 4w",ETS
+"ETS(A,Ad,A) log, 8w",ETS
+"ETS(A,Ad,A) log, 12w",ETS
+"ETS(A,Ad,A) log, 26w",ETS
+"ETS(A,N,A) log, 1w",ETS
+"ETS(A,N,A) log, 2w",ETS
+"ETS(A,N,A) log, 4w",ETS
+"ETS(A,N,A) log, 8w",ETS
+"ETS(A,N,A) log, 12w",ETS
+"ETS(A,N,A) log, 26w",ETS
+"ETS(M,Ad,M), 1w",ETS
+"ETS(M,Ad,M), 2w",ETS
+"ETS(M,Ad,M), 4w",ETS
+"ETS(M,Ad,M), 8w",ETS
+"ETS(M,Ad,M), 12w",ETS
+"ETS(M,Ad,M), 26w",ETS
+"ETS(M,N,M), 1w",ETS
+"ETS(M,N,M), 2w",ETS
+"ETS(M,N,M), 4w",ETS
+"ETS(M,N,M), 8w",ETS
+"ETS(M,N,M), 12w",ETS
+"ETS(M,N,M), 26w",ETS
+"AutoETS bc, 1w",ETS
+"AutoETS bc, 2w",ETS
+"AutoETS bc, 4w",ETS
+"AutoETS bc, 8w",ETS
+"AutoETS bc, 12w",ETS
+"AutoETS bc, 26w",ETS
+"SARIMA(2,0,0)(0,1,1) log, 4w",ARIMA
+"SARIMA(2,0,0)(0,1,1) log, 8w",ARIMA
+"SARIMA(1,0,1)(3,1,2) log, 4w",ARIMA
+"SARIMA(1,0,1)(3,1,2) log, 8w",ARIMA
+"AutoARIMA log, 4w",ARIMA
+"SARIMA(1,0,1)(3,1,2) + weather log, 4w",ARIMA
+"DHR K=5 + weather log, 4w",ARIMAX / DHR
+"Prophet log, 120d",Prophet
+"Prophet + weather log, 120d",Prophet
+"LightGBM 2-stage relative log, 730d",LightGBM
+"LightGBM 2-stage relative log, 365d",LightGBM
+"LightGBM 2-stage log, 180d",LightGBM
+"STL(24) + AutoETS log, 2w",other
+"STL(24) + AutoETS log, 4w",other
+"STL(24) + AutoETS log, 8w",other
+"STL(24) + AutoETS bc, 2w",other
+"STL(24) + AutoETS bc, 4w",other
+"STL(24) + AutoETS bc, 8w",other
+"STL(24) + Theta log, 4w",decomposition
+"STL(24) + Theta bc, 4w",decomposition
+Chronos-2,foundation
+Chronos-2 + weather,foundation
+Chronos-2 + weather + sun,foundation
+Chronos-2 + weather + sun log,foundation
+"Chronos-2 + weather + sun, ctx 336",foundation
+"Chronos-2 + weather + sun, ctx 336 log",foundation
+"Chronos-2 + weather + sun, ctx 4380",foundation
+"Chronos-2 + weather + sun, ctx 4380 log",foundation
+"Chronos-2 + weather + sun, ctx 672",foundation
+"Chronos-2 + weather + sun, ctx 672 log",foundation
+"Chronos-2 + weather + sun, ctx 8192",foundation
+"Chronos-2 + weather + sun, ctx 8192 log",foundation
+Chronos-2 + weather log,foundation
+"Chronos-2 + weather, ctx 336",foundation
+"Chronos-2 + weather, ctx 336 log",foundation
+"Chronos-2 + weather, ctx 4380",foundation
+"Chronos-2 + weather, ctx 4380 log",foundation
+"Chronos-2 + weather, ctx 672",foundation
+"Chronos-2 + weather, ctx 672 log",foundation
+"Chronos-2 + weather, ctx 8192",foundation
+"Chronos-2 + weather, ctx 8192 log",foundation
+NBEATSx s1 + weather,neural
+NHITS s1 + weather,neural
+TabPFN-TS + weather log,foundation
+TiDE s1 + weather,neural
+TiRex-2 + weather,foundation
+TiRex-2 + weather + sun,foundation
+TimeGPT + weather,foundation
+TimeGPT + weather + sun,foundation
+"TimeGPT + weather + sun, ctx 8760",foundation
+"TimeGPT + weather, ctx 8760",foundation
+TimesFM 3.0 + weather,foundation
+TimesFM 3.0 + weather + sun,foundation
+"TimesFM 3.0 + weather + sun, ctx 1024",foundation
+"TimesFM 3.0 + weather + sun, ctx 4380",foundation
+"TimesFM 3.0 + weather, ctx 1024",foundation
+"TimesFM 3.0 + weather, ctx 4380",foundation
+Timestral 123M + weather,foundation
+Timestral 123M + weather + sun,foundation
+"Timestral 123M + weather + sun, ctx 17520",foundation
+"Timestral 123M + weather + sun, ctx 32768",foundation
+"Timestral 123M + weather + sun, ctx 8760",foundation
+"Timestral 123M + weather, ctx 17520",foundation
+"Timestral 123M + weather, ctx 32768",foundation
+"Timestral 123M + weather, ctx 8760",foundation
+Timestral 209M,foundation
+Timestral 209M + weather,foundation
+Timestral 209M + weather + sun,foundation
+Timestral 209M + weather + sun log,foundation
+"Timestral 209M + weather + sun, ctx 17520",foundation
+"Timestral 209M + weather + sun, ctx 17520 log",foundation
+"Timestral 209M + weather + sun, ctx 26280",foundation
+"Timestral 209M + weather + sun, ctx 26280 log",foundation
+"Timestral 209M + weather + sun, ctx 32768",foundation
+"Timestral 209M + weather + sun, ctx 32768 log",foundation
+"Timestral 209M + weather + sun, ctx 336",foundation
+"Timestral 209M + weather + sun, ctx 336 log",foundation
+"Timestral 209M + weather + sun, ctx 4380",foundation
+"Timestral 209M + weather + sun, ctx 4380 log",foundation
+"Timestral 209M + weather + sun, ctx 672",foundation
+"Timestral 209M + weather + sun, ctx 672 log",foundation
+"Timestral 209M + weather + sun, ctx 8760",foundation
+"Timestral 209M + weather + sun, ctx 8760 log",foundation
+Timestral 209M + weather log,foundation
+"Timestral 209M + weather, ctx 17520",foundation
+"Timestral 209M + weather, ctx 17520 log",foundation
+"Timestral 209M + weather, ctx 26280",foundation
+"Timestral 209M + weather, ctx 26280 log",foundation
+"Timestral 209M + weather, ctx 32768",foundation
+"Timestral 209M + weather, ctx 32768 log",foundation
+"Timestral 209M + weather, ctx 336",foundation
+"Timestral 209M + weather, ctx 336 log",foundation
+"Timestral 209M + weather, ctx 4380",foundation
+"Timestral 209M + weather, ctx 4380 log",foundation
+"Timestral 209M + weather, ctx 672",foundation
+"Timestral 209M + weather, ctx 672 log",foundation
+"Timestral 209M + weather, ctx 8760",foundation
+"Timestral 209M + weather, ctx 8760 log",foundation
+"AutoETS log, 12w",ETS
+"AutoETS log, 1w",ETS
+"AutoETS log, 26w",ETS
+"AutoETS log, 2w",ETS
+"AutoETS log, 4w",ETS
+"AutoETS log, 8w",ETS
+"AutoETS seasonal bc, 1w",ETS
+"AutoETS seasonal bc, 2w",ETS
+"AutoETS seasonal bc, 4w",ETS
+"AutoETS seasonal bc, 8w",ETS
+"AutoETS seasonal log, 1w",ETS
+"AutoETS seasonal log, 2w",ETS
+"AutoETS seasonal log, 4w",ETS
+"AutoETS seasonal log, 8w",ETS
+"AutoETS, 12w",ETS
+"AutoETS, 1w",ETS
+"AutoETS, 26w",ETS
+"AutoETS, 2w",ETS
+"AutoETS, 4w",ETS
+"AutoETS, 8w",ETS
+"CES bc, 2w",exp. smoothing (other)
+"CES bc, 4w",exp. smoothing (other)
+"CES bc, 8w",exp. smoothing (other)
+"CES log, 2w",exp. smoothing (other)
+"CES log, 4w",exp. smoothing (other)
+"CES log, 8w",exp. smoothing (other)
+"CES raw, 2w",exp. smoothing (other)
+"CES raw, 4w",exp. smoothing (other)
+"CES raw, 8w",exp. smoothing (other)
+"DOTM additive bc, 2w",Theta
+"DOTM additive bc, 4w",Theta
+"DOTM additive log, 2w",Theta
+"DOTM additive log, 4w",Theta
+"DOTM bc, 2w",Theta
+"DOTM bc, 4w",Theta
+"DOTM bc, 8w",Theta
+"DOTM log, 2w",Theta
+"DOTM log, 4w",Theta
+"DOTM log, 8w",Theta
+"DOTM raw, 2w",Theta
+"DOTM raw, 4w",Theta
+"DOTM raw, 8w",Theta
+"Dynamic Theta bc, 2w",Theta
+"Dynamic Theta bc, 4w",Theta
+"Dynamic Theta bc, 8w",Theta
+"Dynamic Theta log, 2w",Theta
+"Dynamic Theta log, 4w",Theta
+"Dynamic Theta log, 8w",Theta
+"Dynamic Theta raw, 2w",Theta
+"Dynamic Theta raw, 4w",Theta
+"Dynamic Theta raw, 8w",Theta
+"ETS(A,A,A) bc, 12w",ETS
+"ETS(A,A,A) bc, 1w",ETS
+"ETS(A,A,A) bc, 26w",ETS
+"ETS(A,A,A) bc, 2w",ETS
+"ETS(A,A,A) bc, 4w",ETS
+"ETS(A,A,A) bc, 8w",ETS
+"ETS(A,A,A) log, 12w",ETS
+"ETS(A,A,A) log, 1w",ETS
+"ETS(A,A,A) log, 26w",ETS
+"ETS(A,A,A) log, 2w",ETS
+"ETS(A,A,A) log, 4w",ETS
+"ETS(A,A,A) log, 8w",ETS
+"ETS(A,Ad,A) bc, 10d",ETS
+"ETS(A,Ad,A) bc, 3d",ETS
+"ETS(A,Ad,A) bc, 3w",ETS
+"ETS(A,Ad,A) bc, 5d",ETS
+"ETS(A,Ad,A) log, 10d",ETS
+"ETS(A,Ad,A) log, 3d",ETS
+"ETS(A,Ad,A) log, 3w",ETS
+"ETS(A,Ad,A) log, 5d",ETS
+"ETS(A,N,A) bc, 10d",ETS
+"ETS(A,N,A) bc, 3d",ETS
+"ETS(A,N,A) bc, 3w",ETS
+"ETS(A,N,A) bc, 5d",ETS
+"ETS(A,N,A) log, 10d",ETS
+"ETS(A,N,A) log, 3d",ETS
+"ETS(A,N,A) log, 3w",ETS
+"ETS(A,N,A) log, 5d",ETS
+"ETS(M,A,M), 12w",ETS
+"ETS(M,A,M), 1w",ETS
+"ETS(M,A,M), 26w",ETS
+"ETS(M,A,M), 2w",ETS
+"ETS(M,A,M), 4w",ETS
+"ETS(M,A,M), 8w",ETS
+"ETS(M,Ad,M), 10d",ETS
+"ETS(M,Ad,M), 3d",ETS
+"ETS(M,Ad,M), 3w",ETS
+"ETS(M,Ad,M), 5d",ETS
+"ETS(M,N,M), 10d",ETS
+"ETS(M,N,M), 3d",ETS
+"ETS(M,N,M), 3w",ETS
+"ETS(M,N,M), 5d",ETS
+"Holt-Winters additive bc, 10d",exp. smoothing (other)
+"Holt-Winters additive bc, 1w",exp. smoothing (other)
+"Holt-Winters additive bc, 2w",exp. smoothing (other)
+"Holt-Winters additive bc, 3w",exp. smoothing (other)
+"Holt-Winters additive bc, 4w",exp. smoothing (other)
+"Holt-Winters additive bc, 5d",exp. smoothing (other)
+"Holt-Winters additive bc, 8w",exp. smoothing (other)
+"Holt-Winters additive log, 10d",exp. smoothing (other)
+"Holt-Winters additive log, 1w",exp. smoothing (other)
+"Holt-Winters additive log, 2w",exp. smoothing (other)
+"Holt-Winters additive log, 3w",exp. smoothing (other)
+"Holt-Winters additive log, 4w",exp. smoothing (other)
+"Holt-Winters additive log, 5d",exp. smoothing (other)
+"Holt-Winters additive log, 8w",exp. smoothing (other)
+"Holt-Winters multiplicative raw, 2w",exp. smoothing (other)
+"Holt-Winters multiplicative raw, 4w",exp. smoothing (other)
+"Holt-Winters multiplicative raw, 8w",exp. smoothing (other)
+"Optimized Theta additive bc, 2w",Theta
+"Optimized Theta additive bc, 4w",Theta
+"Optimized Theta additive log, 2w",Theta
+"Optimized Theta additive log, 4w",Theta
+"Optimized Theta bc, 2w",Theta
+"Optimized Theta bc, 4w",Theta
+"Optimized Theta bc, 8w",Theta
+"Optimized Theta log, 2w",Theta
+"Optimized Theta log, 4w",Theta
+"Optimized Theta log, 8w",Theta
+"Optimized Theta raw, 2w",Theta
+"Optimized Theta raw, 4w",Theta
+"Optimized Theta raw, 8w",Theta
+"Seasonal ES bc, 10d",exp. smoothing (other)
+"Seasonal ES bc, 1w",exp. smoothing (other)
+"Seasonal ES bc, 2w",exp. smoothing (other)
+"Seasonal ES bc, 3w",exp. smoothing (other)
+"Seasonal ES bc, 4w",exp. smoothing (other)
+"Seasonal ES bc, 5d",exp. smoothing (other)
+"Seasonal ES bc, 8w",exp. smoothing (other)
+"Seasonal ES log, 10d",exp. smoothing (other)
+"Seasonal ES log, 1w",exp. smoothing (other)
+"Seasonal ES log, 2w",exp. smoothing (other)
+"Seasonal ES log, 3w",exp. smoothing (other)
+"Seasonal ES log, 4w",exp. smoothing (other)
+"Seasonal ES log, 5d",exp. smoothing (other)
+"Seasonal ES log, 8w",exp. smoothing (other)
+"Seasonal ES raw, 2w",exp. smoothing (other)
+"Seasonal ES raw, 4w",exp. smoothing (other)
+"Seasonal ES raw, 8w",exp. smoothing (other)
+"Theta additive bc, 2w",Theta
+"Theta additive bc, 4w",Theta
+"Theta additive log, 2w",Theta
+"Theta additive log, 4w",Theta
+"Theta bc, 2w",Theta
+"Theta bc, 4w",Theta
+"Theta bc, 8w",Theta
+"Theta log, 2w",Theta
+"Theta log, 4w",Theta
+"Theta log, 8w",Theta
+"Theta raw, 2w",Theta
+"Theta raw, 4w",Theta
+"Theta raw, 8w",Theta
+"daily AutoETS x profile bc, 112d",ETS top-down
+"daily AutoETS x profile bc, 28d",ETS top-down
+"daily AutoETS x profile bc, 56d",ETS top-down
+"daily AutoETS x profile log, 112d",ETS top-down
+"daily AutoETS x profile log, 28d",ETS top-down
+"daily AutoETS x profile log, 56d",ETS top-down
+"daily ETS(A,Ad,N) x profile bc, 112d",ETS top-down
+"daily ETS(A,Ad,N) x profile bc, 28d",ETS top-down
+"daily ETS(A,Ad,N) x profile bc, 56d",ETS top-down
+"daily ETS(A,Ad,N) x profile log, 112d",ETS top-down
+"daily ETS(A,Ad,N) x profile log, 28d",ETS top-down
+"daily ETS(A,Ad,N) x profile log, 56d",ETS top-down
+"per-hour AutoETS bc, 14d",ETS per hour
+"per-hour AutoETS bc, 28d",ETS per hour
+"per-hour AutoETS bc, 56d",ETS per hour
+"per-hour AutoETS log, 14d",ETS per hour
+"per-hour AutoETS log, 28d",ETS per hour
+"per-hour AutoETS log, 56d",ETS per hour
+"per-hour ETS(A,Ad,N) bc, 14d",ETS per hour
+"per-hour ETS(A,Ad,N) bc, 28d",ETS per hour
+"per-hour ETS(A,Ad,N) bc, 56d",ETS per hour
+"per-hour ETS(A,Ad,N) log, 14d",ETS per hour
+"per-hour ETS(A,Ad,N) log, 28d",ETS per hour
+"per-hour ETS(A,Ad,N) log, 56d",ETS per hour
+"per-hour ETS(A,N,N) bc, 14d",ETS per hour
+"per-hour ETS(A,N,N) bc, 28d",ETS per hour
+"per-hour ETS(A,N,N) bc, 56d",ETS per hour
+"per-hour ETS(A,N,N) log, 14d",ETS per hour
+"per-hour ETS(A,N,N) log, 28d",ETS per hour
+"per-hour ETS(A,N,N) log, 56d",ETS per hour
+"weather regression a=100 + ETS(A,Ad,N) log, 12w",ETS + weather
+"weather regression a=100 + ETS(A,Ad,N) log, 26w",ETS + weather
+"weather regression a=100 + ETS(A,Ad,N) log, 4w",ETS + weather
+"weather regression a=100 + ETS(A,Ad,N) log, 8w",ETS + weather
+"weather regression a=100 + ETS(A,N,N) log, 12w",ETS + weather
+"weather regression a=100 + ETS(A,N,N) log, 26w",ETS + weather
+"weather regression a=100 + ETS(A,N,N) log, 4w",ETS + weather
+"weather regression a=100 + ETS(A,N,N) log, 8w",ETS + weather
+"weather regression a=100 alone log, 12w",ETS + weather
+"weather regression a=100 alone log, 26w",ETS + weather
+"weather regression a=100 alone log, 4w",ETS + weather
+"weather regression a=100 alone log, 8w",ETS + weather
+"weather regression a=30 + ETS(A,Ad,N) log, 12w",ETS + weather
+"weather regression a=30 + ETS(A,Ad,N) log, 26w",ETS + weather
+"weather regression a=30 + ETS(A,Ad,N) log, 4w",ETS + weather
+"weather regression a=30 + ETS(A,Ad,N) log, 8w",ETS + weather
+"weather regression a=30 + ETS(A,N,N) bc, 12w",ETS + weather
+"weather regression a=30 + ETS(A,N,N) bc, 26w",ETS + weather
+"weather regression a=30 + ETS(A,N,N) bc, 4w",ETS + weather
+"weather regression a=30 + ETS(A,N,N) bc, 8w",ETS + weather
+"weather regression a=30 + ETS(A,N,N) log, 12w",ETS + weather
+"weather regression a=30 + ETS(A,N,N) log, 26w",ETS + weather
+"weather regression a=30 + ETS(A,N,N) log, 4w",ETS + weather
+"weather regression a=30 + ETS(A,N,N) log, 8w",ETS + weather
+"weather regression a=30 alone log, 12w",ETS + weather
+"weather regression a=30 alone log, 26w",ETS + weather
+"weather regression a=30 alone log, 4w",ETS + weather
+"weather regression a=30 alone log, 8w",ETS + weather
+"AutoARIMA bc, 4w",ARIMA
+"AutoARIMA bc, 8w",ARIMA
+"AutoARIMA log, 8w",ARIMA
+"DHR K=10 + weather + sun log, 4w",ARIMAX / DHR
+"DHR K=10 + weather + sun log, 8w",ARIMAX / DHR
+"DHR K=10 + weather log, 4w",ARIMAX / DHR
+"DHR K=10 + weather log, 8w",ARIMAX / DHR
+"DHR K=3 + weather + sun log, 12w",ARIMAX / DHR
+"DHR K=3 + weather + sun log, 1w",ARIMAX / DHR
+"DHR K=3 + weather + sun log, 2w",ARIMAX / DHR
+"DHR K=3 + weather + sun log, 4w",ARIMAX / DHR
+"DHR K=3 + weather + sun log, 8w",ARIMAX / DHR
+"DHR K=3 + weather log, 4w",ARIMAX / DHR
+"DHR K=3 + weather log, 8w",ARIMAX / DHR
+"DHR K=5 + weather + sun log, 12w",ARIMAX / DHR
+"DHR K=5 + weather + sun log, 1w",ARIMAX / DHR
+"DHR K=5 + weather + sun log, 2w",ARIMAX / DHR
+"DHR K=5 + weather + sun log, 4w",ARIMAX / DHR
+"DHR K=5 + weather + sun log, 8w",ARIMAX / DHR
+"DHR K=5 + weather log, 8w",ARIMAX / DHR
+"SARIMA(1,0,0)(0,1,1) log, 2w",ARIMA
+"SARIMA(1,0,0)(0,1,1) log, 4w",ARIMA
+"SARIMA(1,0,0)(0,1,1) log, 8w",ARIMA
+"SARIMA(1,0,1)(2,1,3) + humidity + wind + sun bc, 4w",ARIMAX / DHR
+"SARIMA(1,0,1)(2,1,3) + humidity + wind + sun log, 4w",ARIMAX / DHR
+"SARIMA(1,0,1)(2,1,3) + weather + sun bc, 4w",ARIMAX / DHR
+"SARIMA(1,0,1)(2,1,3) + weather + sun log, 4w",ARIMAX / DHR
+"SARIMA(1,0,1)(2,1,3) + weather bc, 4w",ARIMAX / DHR
+"SARIMA(1,0,1)(2,1,3) + weather log, 4w",ARIMAX / DHR
+"SARIMA(1,0,1)(2,1,3) log, 2w",ARIMA
+"SARIMA(1,0,1)(2,1,3) log, 4w",ARIMA
+"SARIMA(1,0,1)(2,1,3) log, 8w",ARIMA
+"SARIMA(1,0,1)(3,1,2) log, 2w",ARIMA
+"SARIMA(1,0,1)(3,1,3) log, 2w",ARIMA
+"SARIMA(1,0,1)(3,1,3) log, 4w",ARIMA
+"SARIMA(1,0,1)(3,1,3) log, 8w",ARIMA
+"SARIMA(2,0,0)(0,1,1) log, 2w",ARIMA
+"SARIMA(2,0,0)(2,1,2) log, 2w",ARIMA
+"SARIMA(2,0,0)(2,1,2) log, 4w",ARIMA
+"SARIMA(2,0,0)(2,1,2) log, 8w",ARIMA
+"SARIMA(2,0,1)(0,1,1) log, 2w",ARIMA
+"SARIMA(2,0,1)(0,1,1) log, 4w",ARIMA
+"SARIMA(2,0,1)(0,1,1) log, 8w",ARIMA
+"SARIMA(3,0,0)(2,1,3) + humidity + wind + sun bc, 4w",ARIMAX / DHR
+"SARIMA(3,0,0)(2,1,3) + humidity + wind + sun log, 4w",ARIMAX / DHR
+"SARIMA(3,0,0)(2,1,3) + weather + sun bc, 4w",ARIMAX / DHR
+"SARIMA(3,0,0)(2,1,3) + weather + sun log, 4w",ARIMAX / DHR
+"SARIMA(3,0,0)(2,1,3) + weather bc, 4w",ARIMAX / DHR
+"SARIMA(3,0,0)(2,1,3) + weather log, 4w",ARIMAX / DHR
+"SARIMA(3,0,0)(2,1,3) log, 2w",ARIMA
+"SARIMA(3,0,0)(2,1,3) log, 4w",ARIMA
+"SARIMA(3,0,0)(2,1,3) log, 8w",ARIMA
+"daily ARIMA x profile log, 112d",ARIMA top-down
+"daily ARIMA x profile log, 56d",ARIMA top-down
+"daily ARIMAX x profile log, 112d",ARIMA top-down
+"daily ARIMAX x profile log, 56d",ARIMA top-down
+"MFLES(24) bc, 4w",decomposition (other)
+"MFLES(24) bc, 8w",decomposition (other)
+"MFLES(24) log, 4w",decomposition (other)
+"MFLES(24) log, 8w",decomposition (other)
+"MFLES(24) raw, 4w",decomposition (other)
+"MFLES(24) raw, 8w",decomposition (other)
+"MFLES(24,168) bc, 4w",decomposition (other)
+"MFLES(24,168) bc, 8w",decomposition (other)
+"MFLES(24,168) log, 4w",decomposition (other)
+"MFLES(24,168) log, 8w",decomposition (other)
+"MFLES(24,168) raw, 4w",decomposition (other)
+"MFLES(24,168) raw, 8w",decomposition (other)
+"MSTL(24,168) + ARIMA bc, 2w",decomposition
+"MSTL(24,168) + ARIMA bc, 4w",decomposition
+"MSTL(24,168) + ARIMA bc, 8w",decomposition
+"MSTL(24,168) + ARIMA log, 2w",decomposition
+"MSTL(24,168) + ARIMA log, 4w",decomposition
+"MSTL(24,168) + ARIMA log, 8w",decomposition
+"MSTL(24,168) + CES bc, 2w",decomposition
+"MSTL(24,168) + CES bc, 4w",decomposition
+"MSTL(24,168) + CES bc, 8w",decomposition
+"MSTL(24,168) + CES log, 2w",decomposition
+"MSTL(24,168) + CES log, 4w",decomposition
+"MSTL(24,168) + CES log, 8w",decomposition
+"MSTL(24,168) + ETS bc, 2w",decomposition
+"MSTL(24,168) + ETS bc, 4w",decomposition
+"MSTL(24,168) + ETS bc, 8w",decomposition
+"MSTL(24,168) + ETS log, 2w",decomposition
+"MSTL(24,168) + ETS log, 4w",decomposition
+"MSTL(24,168) + ETS log, 8w",decomposition
+"MSTL(24,168) + SES bc, 2w",decomposition
+"MSTL(24,168) + SES bc, 4w",decomposition
+"MSTL(24,168) + SES bc, 8w",decomposition
+"MSTL(24,168) + SES log, 2w",decomposition
+"MSTL(24,168) + SES log, 4w",decomposition
+"MSTL(24,168) + SES log, 8w",decomposition
+"MSTL(24,168) + Theta bc, 2w",decomposition
+"MSTL(24,168) + Theta bc, 4w",decomposition
+"MSTL(24,168) + Theta bc, 8w",decomposition
+"MSTL(24,168) + Theta log, 2w",decomposition
+"MSTL(24,168) + Theta log, 4w",decomposition
+"MSTL(24,168) + Theta log, 8w",decomposition
+"MSTL(24,168) + drift bc, 2w",decomposition
+"MSTL(24,168) + drift bc, 4w",decomposition
+"MSTL(24,168) + drift bc, 8w",decomposition
+"MSTL(24,168) + drift log, 2w",decomposition
+"MSTL(24,168) + drift log, 4w",decomposition
+"MSTL(24,168) + drift log, 8w",decomposition
+"MSTL(24,168) + naive bc, 2w",decomposition
+"MSTL(24,168) + naive bc, 4w",decomposition
+"MSTL(24,168) + naive bc, 8w",decomposition
+"MSTL(24,168) + naive log, 2w",decomposition
+"MSTL(24,168) + naive log, 4w",decomposition
+"MSTL(24,168) + naive log, 8w",decomposition
+"STL(24) + ARIMA bc, 10d",decomposition
+"STL(24) + ARIMA bc, 1w",decomposition
+"STL(24) + ARIMA bc, 2w",decomposition
+"STL(24) + ARIMA bc, 4w",decomposition
+"STL(24) + ARIMA bc, 5d",decomposition
+"STL(24) + ARIMA bc, 8w",decomposition
+"STL(24) + ARIMA log, 10d",decomposition
+"STL(24) + ARIMA log, 1w",decomposition
+"STL(24) + ARIMA log, 2w",decomposition
+"STL(24) + ARIMA log, 4w",decomposition
+"STL(24) + ARIMA log, 5d",decomposition
+"STL(24) + ARIMA log, 8w",decomposition
+"STL(24) + ARIMAX bc, 1w",decomposition + weather
+"STL(24) + ARIMAX bc, 2w",decomposition + weather
+"STL(24) + ARIMAX bc, 4w",decomposition + weather
+"STL(24) + ARIMAX log, 1w",decomposition + weather
+"STL(24) + ARIMAX log, 2w",decomposition + weather
+"STL(24) + ARIMAX log, 4w",decomposition + weather
+"STL(24) + CES bc, 2w",decomposition
+"STL(24) + CES bc, 4w",decomposition
+"STL(24) + CES bc, 8w",decomposition
+"STL(24) + CES log, 2w",decomposition
+"STL(24) + CES log, 4w",decomposition
+"STL(24) + CES log, 8w",decomposition
+"STL(24) + ETS bc, 10d",decomposition
+"STL(24) + ETS bc, 1w",decomposition
+"STL(24) + ETS bc, 2w",decomposition
+"STL(24) + ETS bc, 4w",decomposition
+"STL(24) + ETS bc, 5d",decomposition
+"STL(24) + ETS bc, 8w",decomposition
+"STL(24) + ETS log, 10d",decomposition
+"STL(24) + ETS log, 1w",decomposition
+"STL(24) + ETS log, 2w",decomposition
+"STL(24) + ETS log, 4w",decomposition
+"STL(24) + ETS log, 5d",decomposition
+"STL(24) + ETS log, 8w",decomposition
+"STL(24) + SES bc, 10d",decomposition
+"STL(24) + SES bc, 1w",decomposition
+"STL(24) + SES bc, 2w",decomposition
+"STL(24) + SES bc, 4w",decomposition
+"STL(24) + SES bc, 5d",decomposition
+"STL(24) + SES bc, 8w",decomposition
+"STL(24) + SES log, 10d",decomposition
+"STL(24) + SES log, 1w",decomposition
+"STL(24) + SES log, 2w",decomposition
+"STL(24) + SES log, 4w",decomposition
+"STL(24) + SES log, 5d",decomposition
+"STL(24) + SES log, 8w",decomposition
+"STL(24) + Theta bc, 2w",decomposition
+"STL(24) + Theta bc, 8w",decomposition
+"STL(24) + Theta log, 2w",decomposition
+"STL(24) + Theta log, 8w",decomposition
+"STL(24) + drift bc, 2w",decomposition
+"STL(24) + drift bc, 4w",decomposition
+"STL(24) + drift bc, 8w",decomposition
+"STL(24) + drift log, 2w",decomposition
+"STL(24) + drift log, 4w",decomposition
+"STL(24) + drift log, 8w",decomposition
+"STL(24) + naive bc, 10d",decomposition
+"STL(24) + naive bc, 1w",decomposition
+"STL(24) + naive bc, 2w",decomposition
+"STL(24) + naive bc, 4w",decomposition
+"STL(24) + naive bc, 5d",decomposition
+"STL(24) + naive bc, 8w",decomposition
+"STL(24) + naive log, 10d",decomposition
+"STL(24) + naive log, 1w",decomposition
+"STL(24) + naive log, 2w",decomposition
+"STL(24) + naive log, 4w",decomposition
+"STL(24) + naive log, 5d",decomposition
+"STL(24) + naive log, 8w",decomposition
+"TBATS(24), 4w",decomposition (other)
+"TBATS(24,168), 4w",decomposition (other)
+"classical decomposition + drift, 2w",decomposition (other)
+"classical decomposition + drift, 4w",decomposition (other)
+"robust STL(24) + ETS bc, 4w",decomposition (other)
+"robust STL(24) + ETS bc, 8w",decomposition (other)
+"robust STL(24) + ETS log, 4w",decomposition (other)
+"robust STL(24) + ETS log, 8w",decomposition (other)
+"Analog days k=20, 365d",analog
+"Analog days k=40, 365d",analog
+"Analog days k=80, 365d",analog
+"Extra trees relative log, 365d",trees
+"HistGB relative log, 365d",trees
+"HistGB relative log, 730d",trees
+"LightGBM big trees relative log, 730d",LightGBM
+"LightGBM recent-weighted relative log, 730d",LightGBM
+"LightGBM relative bc, 730d",LightGBM
+"LightGBM relative log, 1095d",LightGBM
+"LightGBM relative log, 365d",LightGBM
+"LightGBM relative log, 730d",LightGBM
+"LightGBM season-weighted relative log, 730d",LightGBM
+"LightGBM small trees relative log, 730d",LightGBM
+"Prophet + weather + sun log, 120d",Prophet
+"Prophet + weather + sun log, 60d",Prophet
+"Random forest relative log, 365d",trees
+"Ridge (hour dummies) relative log, 365d",regression
+"Ridge (hour dummies) relative log, 90d",regression
+best of each family,combination
+top-3 models average,combination
+top-5 models average,combination
+top-5 models median,combination
+best foundation + best other,combination
+"Timestral 209M + weather, ctx 32768 [post]",post-processed
+"Timestral 123M + weather, ctx 32768 [post]",post-processed
+"TimesFM 3.0 + weather + sun, ctx 1024 [post]",post-processed
+top-3 models average [post],post-processed
+best foundation + best other [post],post-processed
+"Timestral 209M + weather, ctx 32768 [hybrid]",post-processed
