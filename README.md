@@ -29,7 +29,7 @@ On top of the average:
 Every model, about 560 variants, ran on the same **20 rolling windows**: one forecast origin every midnight from 6 to
 25 October, each window forecasting 48 hours from the data before it. Scores are reported as **skill**: the score
 divided by the seasonal naive's, so lower is better. Anything tuned on the windows' errors was tuned without the
-scored window and its neighbour (purged leave-one-window-out).
+scored window and its two neighbours, which share a day with it (purged leave-one-window-out).
 
 | Day 2 (hours 25–48) of the 20 windows | RMSE skill | MAPE skill | Winkler skill | Coverage of the 95% interval | Windows beating the seasonal naive (RMSE / MAPE / Winkler) |
 |---|---|---|---|---|---|
