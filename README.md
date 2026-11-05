@@ -92,4 +92,4 @@ The project was built with Claude (Anthropic), working as a coding and writing a
   decisions: locking one model before the public leaderboard, keeping the interval, adopting only the safe interval
   fix after the board. I checked the results and the text.
 - **Checks.** Every number in the report is computed by the notebooks from the data and the saved results. Every
-  choice was judged on rolling windows the choice had not seen, not on the assistant's suggestion alone.
+  tuned setting was judged on rolling windows it had not seen, not on the assistant's suggestion alone.
